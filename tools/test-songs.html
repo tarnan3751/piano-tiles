@@ -1,0 +1,20 @@
+<!doctype html><meta charset="utf-8"><title>song parse test</title><pre id="out"></pre>
+<script type="module">
+import { parseMidi, rankMelodyTracks } from '../src/midi.js';
+import { buildChart } from '../src/chart.js';
+const out = document.getElementById('out'); const log = (s) => { out.textContent += s + '\n'; console.log(s); };
+const m = await (await fetch('../songs/manifest.json')).json();
+let ok = 0, bad = 0; const stats = [];
+for (const s of m.songs) {
+  try {
+    const buf = await (await fetch('../' + s.file)).arrayBuffer();
+    const midi = parseMidi(buf); const ch = buildChart(midi, s);
+    const dens = ch.tiles.length / Math.max(1, ch.totalLen);
+    const maxGap = ch.tiles.reduce((a, t, i) => i ? Math.max(a, t.t - ch.tiles[i-1].t) : 0, 0);
+    stats.push({ id: s.id, tiles: ch.tiles.length, backing: ch.backing.length, len: ch.totalLen.toFixed(0), dens: dens.toFixed(2), maxGap: maxGap.toFixed(1), lanes: [0,1,2,3].map(l => ch.tiles.filter(t => t.lane === l).length).join('/') });
+    ok++;
+  } catch (e) { bad++; log('FAIL ' + s.id + ': ' + e.message); }
+}
+for (const st of stats) log(`${st.id.padEnd(36)} tiles=${String(st.tiles).padStart(5)} back=${String(st.backing).padStart(5)} len=${String(st.len).padStart(4)}s dens=${st.dens} maxGap=${st.maxGap}s lanes=${st.lanes}`);
+log(`RESULT ok=${ok} bad=${bad}`);
+</script>

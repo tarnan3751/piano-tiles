@@ -1,0 +1,7 @@
+<!doctype html><meta charset="utf-8"><pre id="out"></pre>
+<script type="module">
+import { parseMidi } from '../src/midi.js'; import { buildChart } from '../src/chart.js';
+const out = document.getElementById('out'); const m = await (await fetch('../songs/manifest.json')).json(); let tot = 0, holds = 0;
+for (const s of m.songs) { const midi = parseMidi(await (await fetch('../' + s.file)).arrayBuffer()); const ch = buildChart(midi, s); const h = ch.tiles.filter(t => t.hold).length; tot += ch.tiles.length; holds += h; out.textContent += `${s.id.padEnd(36)} tiles=${String(ch.tiles.length).padStart(5)} holds=${String(h).padStart(4)} longest=${Math.max(0, ...ch.tiles.map(t => t.hold)).toFixed(1)}s\n`; }
+out.textContent += `TOTAL tiles=${tot} holds=${holds}\n`;
+</script>

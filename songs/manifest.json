@@ -1,0 +1,5251 @@
+{
+ "generated": "tools/build_manifest.py",
+ "count": 200,
+ "songs": [
+  {
+   "id": "bach-prelude-c-major-bwv846",
+   "file": "songs/bach-prelude-c-major-bwv846.mid",
+   "title": "Prelude in C major, BWV 846",
+   "composer": "Johann Sebastian Bach",
+   "year": 1722,
+   "genre": "Baroque",
+   "license": "Public Domain",
+   "source": "Mutopia Project",
+   "sourceUrl": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=5",
+   "typesetter": "Tobias Erbsland",
+   "edition": "Unknown",
+   "mutopiaId": 5,
+   "melodyTracks": [
+    2
+   ],
+   "duration": 140.0,
+   "startOffset": 0,
+   "bpm": 60,
+   "melodyDensity": 2.96,
+   "difficulty": 3,
+   "popularity": 26872
+  },
+  {
+   "id": "bach-invention-1",
+   "file": "songs/bach-invention-1.mid",
+   "title": "Invention No. 1 in C major, BWV 772",
+   "composer": "Johann Sebastian Bach",
+   "year": 1723,
+   "genre": "Baroque",
+   "license": "Creative Commons Attribution-ShareAlike 3.0",
+   "source": "Mutopia Project",
+   "sourceUrl": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=40",
+   "typesetter": "jeff covey",
+   "edition": "Bach-Gesellschaft",
+   "mutopiaId": 40,
+   "melodyTracks": [
+    1
+   ],
+   "duration": 66.0,
+   "startOffset": 0,
+   "bpm": 80,
+   "melodyDensity": 3.62,
+   "difficulty": 4,
+   "popularity": 3038
+  },
+  {
+   "id": "bach-toccata-fugue-d-minor",
+   "file": "songs/bach-toccata-fugue-d-minor.mid",
+   "title": "Toccata and Fugue in D minor, BWV 565",
+   "composer": "Johann Sebastian Bach",
+   "year": 1708,
+   "genre": "Baroque",
+   "license": "Public Domain",
+   "source": "Mutopia Project",
+   "sourceUrl": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1780",
+   "typesetter": "Anonymous",
+   "edition": "Bach-Gesellschaft Ausgabe, 1867",
+   "mutopiaId": 1780,
+   "melodyTracks": [
+    1
+   ],
+   "duration": 572.0,
+   "startOffset": 0,
+   "bpm": 60,
+   "melodyDensity": 2.88,
+   "difficulty": 3,
+   "popularity": 119664
+  },
+  {
+   "id": "bach-air-on-the-g-string",
+   "file": "songs/bach-air-on-the-g-string.mid",
+   "title": "Air on the G String (Orchestral Suite No. 3)",
+   "composer": "Johann Sebastian Bach",
+   "year": 1731,
+   "genre": "Baroque",
+   "license": "Creative Commons Attribution-ShareAlike 3.0",
+   "source": "Mutopia Project",
+   "sourceUrl": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=242",
+   "typesetter": "jeff covey",
+   "edition": "Bach-Gesellschaft",
+   "mutopiaId": 242,
+   "melodyTracks": [
+    1
+   ],
+   "duration": 152.0,
+   "startOffset": 0,
+   "bpm": 30,
+   "melodyDensity": 0.98,
+   "difficulty": 1,
+   "popularity": 68496
+  },
+  {
+   "id": "bach-bourree-e-minor",
+   "file": "songs/bach-bourree-e-minor.mid",
+   "title": "Bourrée in E minor, BWV 996",
+   "composer": "Johann Sebastian Bach",
+   "year": 1712,
+   "genre": "Baroque",
+   "license": "Public Domain",
+   "source": "Mutopia Project",
+   "sourceUrl": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1743",
+   "typesetter": "Rudy Matela",
+   "edition": "Band I: J.S. Bach: Compositionen für die Laute, Denkmäler alter Lautenkunst Wolfenbüttel: Julius Zwißlers Verlag, 1921. Plate Band I. (among other sources)",
+   "mutopiaId": 1743,
+   "melodyTracks": [
+    1
+   ],
+   "duration": 43.6,
+   "startOffset": 0,
+   "bpm": 132,
+   "melodyDensity": 2.11,
+   "difficulty": 2,
+   "popularity": 21535
+  },
+  {
+   "id": "bach-cello-suite-1-prelude",
+   "file": "songs/bach-cello-suite-1-prelude.mid",
+   "title": "Cello Suite No. 1: Prelude, BWV 1007",
+   "composer": "Johann Sebastian Bach",
+   "year": 1720,
+   "genre": "Baroque",
+   "license": "Public Domain",
+   "source": "Mutopia Project",
+   "sourceUrl": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=44",
+   "typesetter": "Ian C. Williamson",
+   "edition": "Transcribed by ear",
+   "mutopiaId": 44,
+   "melodyTracks": [
+    1
+   ],
+   "duration": 165.8,
+   "startOffset": 0,
+   "bpm": 80,
+   "melodyDensity": 4.66,
+   "difficulty": 4,
+   "popularity": 70251
+  },
+  {
+   "id": "bach-minuet-in-g",
+   "file": "songs/bach-minuet-in-g.mid",
+   "title": "Minuet in G major, BWV Anh. 114",
+   "composer": "Christian Petzold (attr. J. S. Bach)",
+   "year": 1725,
+   "genre": "Baroque",
+   "license": "Public Domain",
+   "source": "Mutopia Project",
+   "sourceUrl": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=695",
+   "typesetter": "Yannick KIRSCHHOFFER",
+   "edition": "Mutopia",
+   "mutopiaId": 695,
+   "melodyTracks": [
+    1
+   ],
+   "duration": 44.3,
+   "startOffset": 0,
+   "bpm": 130,
+   "melodyDensity": 3.09,
+   "difficulty": 3,
+   "popularity": 2241
+  },
+  {
+   "id": "bach-goldberg-aria",
+   "file": "songs/bach-goldberg-aria.mid",
+   "title": "Goldberg Variations: Aria, BWV 988",
+   "composer": "Johann Sebastian Bach",
+   "year": 1741,
+   "genre": "Baroque",
+   "license": "Creative Commons Attribution-ShareAlike 3.0",
+   "source": "Mutopia Project",
+   "sourceUrl": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=979",
+   "typesetter": "JD Erickson",
+   "edition": "Bach-Gesellschaft",
+   "mutopiaId": 979,
+   "melodyTracks": [
+    1
+   ],
+   "duration": 96.0,
+   "startOffset": 0,
+   "bpm": 60,
+   "melodyDensity": 2.56,
+   "difficulty": 3,
+   "popularity": 99490
+  },
+  {
+   "id": "pachelbel-canon-in-d",
+   "file": "songs/pachelbel-canon-in-d.mid",
+   "title": "Canon in D",
+   "composer": "Johann Pachelbel",
+   "year": 1680,
+   "genre": "Baroque",
+   "license": "Creative Commons Attribution 4.0",
+   "source": "Mutopia Project",
+   "sourceUrl": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=2047",
+   "typesetter": "Michael Fischer v. Mollard",
+   "edition": "IMSLP",
+   "mutopiaId": 2047,
+   "melodyTracks": [
+    1
+   ],
+   "duration": 245.5,
+   "startOffset": 7.23,
+   "bpm": 55,
+   "melodyDensity": 2.5,
+   "difficulty": 3,
+   "popularity": 189712
+  },
+  {
+   "id": "vivaldi-spring",
+   "file": "songs/vivaldi-spring.mid",
+   "title": "The Four Seasons: Spring, 1st movement",
+   "composer": "Antonio Vivaldi",
+   "year": 1723,
+   "genre": "Baroque",
+   "license": "Creative Commons Attribution-ShareAlike 3.0",
+   "source": "Mutopia Project",
+   "sourceUrl": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=301",
+   "typesetter": "",
+   "edition": "Performers' Facsimiles",
+   "mutopiaId": 301,
+   "melodyTracks": [
+    2
+   ],
+   "duration": 140.4,
+   "startOffset": 0,
+   "bpm": 50,
+   "melodyDensity": 3.25,
+   "difficulty": 3,
+   "popularity": 302577
+  },
+  {
+   "id": "handel-hallelujah",
+   "file": "songs/handel-hallelujah.mid",
+   "title": "Hallelujah Chorus (Messiah)",
+   "composer": "George Frideric Handel",
+   "year": 1741,
+   "genre": "Baroque",
+   "license": "Public Domain",
+   "source": "Mutopia Project",
+   "sourceUrl": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=459",
+   "typesetter": "Joshua Koo",
+   "edition": "Unknown",
+   "mutopiaId": 459,
+   "melodyTracks": [
+    5
+   ],
+   "duration": 188.0,
+   "startOffset": 0,
+   "bpm": 120,
+   "melodyDensity": 2.68,
+   "difficulty": 3,
+   "popularity": 141854
+  },
+  {
+   "id": "beethoven-fur-elise",
+   "file": "songs/beethoven-fur-elise.mid",
+   "title": "Für Elise, WoO 59",
+   "composer": "Ludwig van Beethoven",
+   "year": 1810,
+   "genre": "Classical",
+   "license": "Public Domain",
+   "source": "Mutopia Project",
+   "sourceUrl": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=931",
+   "typesetter": "Stelios Samelis",
+   "edition": "Breitkopf & Härtel, 1888",
+   "mutopiaId": 931,
+   "melodyTracks": [
+    1
+   ],
+   "duration": 130.4,
+   "startOffset": 0,
+   "bpm": 72,
+   "melodyDensity": 3.57,
+   "difficulty": 4,
+   "popularity": 192151
+  },
+  {
+   "id": "beethoven-moonlight-sonata",
+   "file": "songs/beethoven-moonlight-sonata.mid",
+   "title": "Moonlight Sonata, 1st movement, Op. 27 No. 2",
+   "composer": "Ludwig van Beethoven",
+   "year": 1801,
+   "genre": "Classical",
+   "license": "Creative Commons Attribution-ShareAlike 2.5",
+   "source": "Mutopia Project",
+   "sourceUrl": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=276",
+   "typesetter": "Stewart Holmes",
+   "edition": "Berners, 1908 (edited by A. Winterberger)",
+   "mutopiaId": 276,
+   "melodyTracks": [
+    1
+   ],
+   "duration": 276.0,
+   "startOffset": 0,
+   "bpm": 60,
+   "melodyDensity": 2.6,
+   "difficulty": 3,
+   "popularity": 156610
+  },
+  {
+   "id": "beethoven-pathetique-adagio",
+   "file": "songs/beethoven-pathetique-adagio.mid",
+   "title": "Pathétique Sonata, 2nd movement, Op. 13",
+   "composer": "Ludwig van Beethoven",
+   "year": 1798,
+   "genre": "Classical",
+   "license": "Public Domain",
+   "source": "Mutopia Project",
+   "sourceUrl": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=295",
+   "typesetter": "Chris Sawer",
+   "edition": "Berners, 1908 (edited by A. Winterberger); Peters, 1910",
+   "mutopiaId": 295,
+   "melodyTracks": [
+    1
+   ],
+   "duration": 243.3,
+   "startOffset": 0,
+   "bpm": 36,
+   "melodyDensity": 2.72,
+   "difficulty": 3,
+   "popularity": 67987
+  },
+  {
+   "id": "beethoven-ode-to-joy",
+   "file": "songs/beethoven-ode-to-joy.mid",
+   "title": "Ode to Joy (Symphony No. 9)",
+   "composer": "Ludwig van Beethoven",
+   "year": 1824,
+   "genre": "Classical",
+   "license": "Public Domain",
+   "source": "Mutopia Project",
+   "sourceUrl": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=528",
+   "typesetter": "Peter Chubb",
+   "edition": "Various",
+   "mutopiaId": 528,
+   "melodyTracks": [
+    1
+   ],
+   "duration": 38.4,
+   "startOffset": 0,
+   "bpm": 100,
+   "melodyDensity": 1.74,
+   "difficulty": 2,
+   "popularity": 202571
+  },
+  {
+   "id": "beethoven-symphony-5",
+   "file": "songs/beethoven-symphony-5.mid",
+   "title": "Symphony No. 5, 1st movement, Op. 67",
+   "composer": "Ludwig van Beethoven",
+   "year": 1808,
+   "genre": "Classical",
+   "license": "Public Domain",
+   "source": "Mutopia Project",
+   "sourceUrl": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=497",
+   "typesetter": "Magnus Lewis-Smith",
+   "edition": "Augener's Edition",
+   "mutopiaId": 497,
+   "melodyTracks": [
+    1
+   ],
+   "duration": 280.6,
+   "startOffset": 0,
+   "bpm": 216,
+   "melodyDensity": 4.61,
+   "difficulty": 4,
+   "popularity": 178010
+  },
+  {
+   "id": "mozart-rondo-alla-turca",
+   "file": "songs/mozart-rondo-alla-turca.mid",
+   "title": "Rondo alla Turca, K. 331",
+   "composer": "Wolfgang Amadeus Mozart",
+   "year": 1783,
+   "genre": "Classical",
+   "license": "Public Domain",
+   "source": "Mutopia Project",
+   "sourceUrl": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=108",
+   "typesetter": "Rune Zedeler and Chris Sawer",
+   "edition": "IMSLP",
+   "mutopiaId": 108,
+   "melodyTracks": [
+    1
+   ],
+   "duration": 255.0,
+   "startOffset": 0,
+   "bpm": 60,
+   "melodyDensity": 2.53,
+   "difficulty": 3,
+   "popularity": 61066
+  },
+  {
+   "id": "mozart-sonata-facile",
+   "file": "songs/mozart-sonata-facile.mid",
+   "title": "Piano Sonata No. 16 'Sonata facile', 1st movement, K. 545",
+   "composer": "Wolfgang Amadeus Mozart",
+   "year": 1788,
+   "genre": "Classical",
+   "license": "Creative Commons Attribution-ShareAlike 3.0",
+   "source": "Mutopia Project",
+   "sourceUrl": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=998",
+   "typesetter": "Alejandro Sierra",
+   "edition": "IMSLP",
+   "mutopiaId": 998,
+   "melodyTracks": [
+    1
+   ],
+   "duration": 132.3,
+   "startOffset": 0,
+   "bpm": 132,
+   "melodyDensity": 4.5,
+   "difficulty": 4,
+   "popularity": 26921
+  },
+  {
+   "id": "mozart-eine-kleine-nachtmusik",
+   "file": "songs/mozart-eine-kleine-nachtmusik.mid",
+   "title": "Eine kleine Nachtmusik, 1st movement, K. 525",
+   "composer": "Wolfgang Amadeus Mozart",
+   "year": 1787,
+   "genre": "Classical",
+   "license": "Public Domain",
+   "source": "Mutopia Project",
+   "sourceUrl": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=2230",
+   "typesetter": "Mike Blackstock",
+   "edition": "Breitkopf & Härtel, 1883",
+   "mutopiaId": 2230,
+   "melodyTracks": [
+    1
+   ],
+   "duration": 248.6,
+   "startOffset": 0,
+   "bpm": 132,
+   "melodyDensity": 3.24,
+   "difficulty": 3,
+   "popularity": 86735
+  },
+  {
+   "id": "mozart-queen-of-the-night",
+   "file": "songs/mozart-queen-of-the-night.mid",
+   "title": "Queen of the Night Aria (The Magic Flute)",
+   "composer": "Wolfgang Amadeus Mozart",
+   "year": 1791,
+   "genre": "Classical",
+   "license": "Public Domain",
+   "source": "Mutopia Project",
+   "sourceUrl": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=266",
+   "typesetter": "Deborah Lowrey",
+   "edition": "J. L. Peters 1875, C. F. Peters 18??, Lee & Walker 1870, North & Co. 1879",
+   "mutopiaId": 266,
+   "melodyTracks": [
+    9
+   ],
+   "duration": 197.0,
+   "startOffset": 1.75,
+   "bpm": 120,
+   "melodyDensity": 3.61,
+   "difficulty": 4,
+   "popularity": 5010
+  },
+  {
+   "id": "clementi-sonatina-op36-1",
+   "file": "songs/clementi-sonatina-op36-1.mid",
+   "title": "Sonatina in C major, Op. 36 No. 1",
+   "composer": "Muzio Clementi",
+   "year": 1797,
+   "genre": "Classical",
+   "license": "Public Domain",
+   "source": "Mutopia Project",
+   "sourceUrl": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=804",
+   "typesetter": "Brian D. Rude",
+   "edition": "Sonatina Album, G. Schirmer, Inc. Copyright 1893",
+   "mutopiaId": 804,
+   "melodyTracks": [
+    1
+   ],
+   "duration": 58.1,
+   "startOffset": 0,
+   "bpm": 156,
+   "melodyDensity": 3.87,
+   "difficulty": 4,
+   "popularity": 1292
+  },
+  {
+   "id": "chopin-nocturne-op9-2",
+   "file": "songs/chopin-nocturne-op9-2.mid",
+   "title": "Nocturne in E-flat major, Op. 9 No. 2",
+   "composer": "Frédéric Chopin",
+   "year": 1832,
+   "genre": "Romantic",
+   "license": "Creative Commons Attribution-ShareAlike 3.0",
+   "source": "Mutopia Project",
+   "sourceUrl": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1590",
+   "typesetter": "Renato Biolcati Rinaldi",
+   "edition": "G. Schirmer, New York, 1881",
+   "mutopiaId": 1590,
+   "melodyTracks": [
+    1
+   ],
+   "duration": 202.3,
+   "startOffset": 0,
+   "bpm": 66,
+   "melodyDensity": 2.08,
+   "difficulty": 2,
+   "popularity": 65547
+  },
+  {
+   "id": "chopin-fantaisie-impromptu",
+   "file": "songs/chopin-fantaisie-impromptu.mid",
+   "title": "Fantaisie-Impromptu, Op. 66",
+   "composer": "Frédéric Chopin",
+   "year": 1834,
+   "genre": "Romantic",
+   "license": "Public Domain",
+   "source": "Mutopia Project",
+   "sourceUrl": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1693",
+   "typesetter": "Guy D. Lederfein",
+   "edition": "Herrmann Scholtz (1845-1918)",
+   "mutopiaId": 1693,
+   "melodyTracks": [
+    1
+   ],
+   "duration": 253.5,
+   "startOffset": 4.3,
+   "bpm": 168,
+   "melodyDensity": 6.47,
+   "difficulty": 5,
+   "popularity": 31722
+  },
+  {
+   "id": "chopin-raindrop-prelude",
+   "file": "songs/chopin-raindrop-prelude.mid",
+   "title": "Raindrop Prelude, Op. 28 No. 15",
+   "composer": "Frédéric Chopin",
+   "year": 1838,
+   "genre": "Romantic",
+   "license": "Public Domain",
+   "source": "Mutopia Project",
+   "sourceUrl": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=471",
+   "typesetter": "Magnus Lewis-Smith",
+   "edition": "Edition Peters",
+   "mutopiaId": 471,
+   "melodyTracks": [
+    1
+   ],
+   "duration": 267.0,
+   "startOffset": 0,
+   "bpm": 80,
+   "melodyDensity": 2.13,
+   "difficulty": 2,
+   "popularity": 21281
+  },
+  {
+   "id": "chopin-revolutionary-etude",
+   "file": "songs/chopin-revolutionary-etude.mid",
+   "title": "Revolutionary Étude, Op. 10 No. 12",
+   "composer": "Frédéric Chopin",
+   "year": 1831,
+   "genre": "Romantic",
+   "license": "Public Domain",
+   "source": "Mutopia Project",
+   "sourceUrl": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=743",
+   "typesetter": "Roland Goretzki",
+   "edition": "Peters, Herrmann Scholtz, 1900b",
+   "mutopiaId": 743,
+   "melodyTracks": [
+    1
+   ],
+   "duration": 125.2,
+   "startOffset": 0,
+   "bpm": 160,
+   "melodyDensity": 2.25,
+   "difficulty": 3,
+   "popularity": 17859
+  },
+  {
+   "id": "schubert-ave-maria",
+   "file": "songs/schubert-ave-maria.mid",
+   "title": "Ave Maria (Ellens Gesang III), D. 839",
+   "composer": "Franz Schubert",
+   "year": 1825,
+   "genre": "Romantic",
+   "license": "Public Domain",
+   "source": "Mutopia Project",
+   "sourceUrl": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1054",
+   "typesetter": "Ph. Raynaud",
+   "edition": "C.F. Peters (Band I)",
+   "mutopiaId": 1054,
+   "melodyTracks": [
+    1
+   ],
+   "duration": 432.5,
+   "startOffset": 21.0,
+   "bpm": 24,
+   "melodyDensity": 0.84,
+   "difficulty": 1,
+   "popularity": 151307
+  },
+  {
+   "id": "schubert-impromptu-op90-3",
+   "file": "songs/schubert-impromptu-op90-3.mid",
+   "title": "Impromptu in G-flat major, Op. 90 No. 3",
+   "composer": "Franz Schubert",
+   "year": 1827,
+   "genre": "Romantic",
+   "license": "Public Domain",
+   "source": "Mutopia Project",
+   "sourceUrl": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1193",
+   "typesetter": "Ph. Raynaud",
+   "edition": "Breitkopf & Härtel, 1888",
+   "mutopiaId": 1193,
+   "melodyTracks": [
+    1
+   ],
+   "duration": 354.4,
+   "startOffset": 2.5,
+   "bpm": 120,
+   "melodyDensity": 0.94,
+   "difficulty": 1,
+   "popularity": 22121
+  },
+  {
+   "id": "schumann-traumerei",
+   "file": "songs/schumann-traumerei.mid",
+   "title": "Träumerei (Kinderszenen), Op. 15 No. 7",
+   "composer": "Robert Schumann",
+   "year": 1838,
+   "genre": "Romantic",
+   "license": "Public Domain",
+   "source": "Mutopia Project",
+   "sourceUrl": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=504",
+   "typesetter": "Ying-Chun Liu",
+   "edition": "Leichte Stucke, 1900",
+   "mutopiaId": 504,
+   "melodyTracks": [
+    1
+   ],
+   "duration": 110.7,
+   "startOffset": 0,
+   "bpm": 60,
+   "melodyDensity": 1.25,
+   "difficulty": 2,
+   "popularity": 36158
+  },
+  {
+   "id": "liszt-consolation-3",
+   "file": "songs/liszt-consolation-3.mid",
+   "title": "Consolation No. 3 in D-flat major, S. 172",
+   "composer": "Franz Liszt",
+   "year": 1850,
+   "genre": "Romantic",
+   "license": "Creative Commons Attribution 3.0",
+   "source": "Mutopia Project",
+   "sourceUrl": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1647",
+   "typesetter": "Ryan Prince",
+   "edition": "Breitkopf & Härtel, 1850",
+   "mutopiaId": 1647,
+   "melodyTracks": [
+    1
+   ],
+   "duration": 243.0,
+   "startOffset": 9.5,
+   "bpm": 60,
+   "melodyDensity": 1.2,
+   "difficulty": 2,
+   "popularity": 13853
+  },
+  {
+   "id": "mendelssohn-wedding-march",
+   "file": "songs/mendelssohn-wedding-march.mid",
+   "title": "Wedding March (A Midsummer Night's Dream)",
+   "composer": "Felix Mendelssohn",
+   "year": 1842,
+   "genre": "Romantic",
+   "license": "Creative Commons Attribution-ShareAlike 4.0",
+   "source": "Mutopia Project",
+   "sourceUrl": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=2198",
+   "typesetter": "Alexander Brock",
+   "edition": "Paris: Durand & Cie., Plate D. & F. 9516",
+   "mutopiaId": 2198,
+   "melodyTracks": [
+    1
+   ],
+   "duration": 345.3,
+   "startOffset": 0,
+   "bpm": 130,
+   "melodyDensity": 2.25,
+   "difficulty": 3,
+   "popularity": 48895
+  },
+  {
+   "id": "brahms-lullaby",
+   "file": "songs/brahms-lullaby.mid",
+   "title": "Lullaby (Wiegenlied), Op. 49 No. 4",
+   "composer": "Johannes Brahms",
+   "year": 1868,
+   "genre": "Romantic",
+   "license": "Public Domain",
+   "source": "Mutopia Project",
+   "sourceUrl": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1037",
+   "typesetter": "森 章吾",
+   "edition": "Indiana University: http://www.dlib.indiana.edu/variations/scores/bgn9130/index1.html",
+   "mutopiaId": 1037,
+   "melodyTracks": [
+    1
+   ],
+   "duration": 53.5,
+   "startOffset": 4.0,
+   "bpm": 60,
+   "melodyDensity": 1.12,
+   "difficulty": 1,
+   "popularity": 40250
+  },
+  {
+   "id": "grieg-mountain-king",
+   "file": "songs/grieg-mountain-king.mid",
+   "title": "In the Hall of the Mountain King (Peer Gynt)",
+   "composer": "Edvard Grieg",
+   "year": 1875,
+   "genre": "Romantic",
+   "license": "Public Domain",
+   "source": "Mutopia Project",
+   "sourceUrl": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1888",
+   "typesetter": "Coyau",
+   "edition": "The University Society, 1918",
+   "mutopiaId": 1888,
+   "melodyTracks": [
+    1
+   ],
+   "duration": 145.2,
+   "startOffset": 0,
+   "bpm": 138,
+   "melodyDensity": 3.75,
+   "difficulty": 4,
+   "popularity": 174283
+  },
+  {
+   "id": "dvorak-new-world-largo",
+   "file": "songs/dvorak-new-world-largo.mid",
+   "title": "Symphony No. 9 'From the New World': Largo",
+   "composer": "Antonín Dvořák",
+   "year": 1893,
+   "genre": "Romantic",
+   "license": "Creative Commons Attribution-ShareAlike 3.0",
+   "source": "Mutopia Project",
+   "sourceUrl": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1793",
+   "typesetter": "Keith OHara",
+   "edition": "N. Simrock GmbH (1894)",
+   "mutopiaId": 1793,
+   "melodyTracks": [
+    2
+   ],
+   "duration": 535.4,
+   "startOffset": 26.19,
+   "bpm": 52,
+   "melodyDensity": 0.62,
+   "difficulty": 1,
+   "popularity": 159105
+  },
+  {
+   "id": "rachmaninoff-prelude-c-sharp-minor",
+   "file": "songs/rachmaninoff-prelude-c-sharp-minor.mid",
+   "title": "Prelude in C-sharp minor, Op. 3 No. 2",
+   "composer": "Sergei Rachmaninoff",
+   "year": 1892,
+   "genre": "Romantic",
+   "license": "Creative Commons Attribution-ShareAlike 4.0",
+   "source": "Mutopia Project",
+   "sourceUrl": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=2033",
+   "typesetter": "Petro Kostandy",
+   "edition": "Bosworth & Co. 1896; Universal Edition 1910",
+   "mutopiaId": 2033,
+   "melodyTracks": [
+    1
+   ],
+   "duration": 163.8,
+   "startOffset": 0,
+   "bpm": 60,
+   "melodyDensity": 2.89,
+   "difficulty": 3,
+   "popularity": 21694
+  },
+  {
+   "id": "paganini-caprice-24",
+   "file": "songs/paganini-caprice-24.mid",
+   "title": "Caprice No. 24 in A minor",
+   "composer": "Niccolò Paganini",
+   "year": 1817,
+   "genre": "Romantic",
+   "license": "Creative Commons Attribution-ShareAlike 4.0",
+   "source": "Mutopia Project",
+   "sourceUrl": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=2000",
+   "typesetter": "Samuel Rummel",
+   "edition": "Milan: Gio. Ricordi",
+   "mutopiaId": 2000,
+   "melodyTracks": [
+    1
+   ],
+   "duration": 132.1,
+   "startOffset": 0,
+   "bpm": 186,
+   "melodyDensity": 9.87,
+   "difficulty": 5,
+   "popularity": 23195
+  },
+  {
+   "id": "mussorgsky-promenade",
+   "file": "songs/mussorgsky-promenade.mid",
+   "title": "Promenade (Pictures at an Exhibition)",
+   "composer": "Modest Mussorgsky",
+   "year": 1874,
+   "genre": "Romantic",
+   "license": "Creative Commons Attribution-ShareAlike 4.0",
+   "source": "Mutopia Project",
+   "sourceUrl": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=475",
+   "typesetter": "Knute Snortum",
+   "edition": "Pavel Lamm",
+   "mutopiaId": 475,
+   "melodyTracks": [
+    1
+   ],
+   "duration": 94.8,
+   "startOffset": 0,
+   "bpm": 88,
+   "melodyDensity": 1.91,
+   "difficulty": 2,
+   "popularity": 156911
+  },
+  {
+   "id": "debussy-clair-de-lune",
+   "file": "songs/debussy-clair-de-lune.mid",
+   "title": "Clair de lune (Suite bergamasque)",
+   "composer": "Claude Debussy",
+   "year": 1905,
+   "genre": "Impressionist",
+   "license": "Public Domain",
+   "source": "Mutopia Project",
+   "sourceUrl": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1778",
+   "typesetter": "Keith OHara",
+   "edition": "E. Fromont (1905)",
+   "mutopiaId": 1778,
+   "melodyTracks": [
+    1
+   ],
+   "duration": 322.5,
+   "startOffset": 0,
+   "bpm": 60,
+   "melodyDensity": 1.37,
+   "difficulty": 2,
+   "popularity": 56256
+  },
+  {
+   "id": "debussy-arabesque-1",
+   "file": "songs/debussy-arabesque-1.mid",
+   "title": "Arabesque No. 1",
+   "composer": "Claude Debussy",
+   "year": 1891,
+   "genre": "Impressionist",
+   "license": "Public Domain",
+   "source": "Mutopia Project",
+   "sourceUrl": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1777",
+   "typesetter": "Keith OHara",
+   "edition": "Durand et Fils (1904)",
+   "mutopiaId": 1777,
+   "melodyTracks": [
+    1
+   ],
+   "duration": 176.2,
+   "startOffset": 0,
+   "bpm": 144,
+   "melodyDensity": 3.67,
+   "difficulty": 4,
+   "popularity": 1457
+  },
+  {
+   "id": "satie-gymnopedie-1",
+   "file": "songs/satie-gymnopedie-1.mid",
+   "title": "Gymnopédie No. 1",
+   "composer": "Erik Satie",
+   "year": 1888,
+   "genre": "Impressionist",
+   "license": "Public Domain",
+   "source": "Mutopia Project",
+   "sourceUrl": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=37",
+   "typesetter": "Evin Robertson",
+   "edition": "Dover Edition",
+   "mutopiaId": 37,
+   "melodyTracks": [
+    1
+   ],
+   "duration": 141.0,
+   "startOffset": 0,
+   "bpm": 60,
+   "melodyDensity": 0.66,
+   "difficulty": 1,
+   "popularity": 137312
+  },
+  {
+   "id": "satie-gnossienne-1",
+   "file": "songs/satie-gnossienne-1.mid",
+   "title": "Gnossienne No. 1",
+   "composer": "Erik Satie",
+   "year": 1890,
+   "genre": "Impressionist",
+   "license": "Creative Commons Attribution-ShareAlike 4.0",
+   "source": "Mutopia Project",
+   "sourceUrl": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=2035",
+   "typesetter": "Knute Snortum",
+   "edition": "EDITIONS SALABERT, 22, Rue Chauchat. Paris, 1913",
+   "mutopiaId": 2035,
+   "melodyTracks": [
+    1
+   ],
+   "duration": 196.7,
+   "startOffset": 0,
+   "bpm": 100,
+   "melodyDensity": 1.97,
+   "difficulty": 2,
+   "popularity": 77616
+  },
+  {
+   "id": "faure-pavane",
+   "file": "songs/faure-pavane.mid",
+   "title": "Pavane, Op. 50",
+   "composer": "Gabriel Fauré",
+   "year": 1887,
+   "genre": "Impressionist",
+   "license": "Creative Commons Attribution-ShareAlike 4.0",
+   "source": "Mutopia Project",
+   "sourceUrl": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=2196",
+   "typesetter": "Gabriel Hondet",
+   "edition": "Paris: J. Hamelle, 1901. Plate J. 4727 H.",
+   "mutopiaId": 2196,
+   "melodyTracks": [
+    1
+   ],
+   "duration": 168.0,
+   "startOffset": 2.5,
+   "bpm": 60,
+   "melodyDensity": 1.09,
+   "difficulty": 1,
+   "popularity": 31889
+  },
+  {
+   "id": "joplin-maple-leaf-rag",
+   "file": "songs/joplin-maple-leaf-rag.mid",
+   "title": "Maple Leaf Rag",
+   "composer": "Scott Joplin",
+   "year": 1899,
+   "genre": "Ragtime",
+   "license": "Public Domain",
+   "source": "Mutopia Project",
+   "sourceUrl": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=23",
+   "typesetter": "Chris Sawer",
+   "edition": "Reproduction of original edition (1899)",
+   "mutopiaId": 23,
+   "melodyTracks": [
+    1
+   ],
+   "duration": 144.0,
+   "startOffset": 0,
+   "bpm": 120,
+   "melodyDensity": 5.31,
+   "difficulty": 5,
+   "popularity": 44037
+  },
+  {
+   "id": "joplin-the-entertainer",
+   "file": "songs/joplin-the-entertainer.mid",
+   "title": "The Entertainer",
+   "composer": "Scott Joplin",
+   "year": 1902,
+   "genre": "Ragtime",
+   "license": "Public Domain",
+   "source": "Mutopia Project",
+   "sourceUrl": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=263",
+   "typesetter": "Chris Sawer",
+   "edition": "Reproduction of original edition (1902)",
+   "mutopiaId": 263,
+   "melodyTracks": [
+    1
+   ],
+   "duration": 252.9,
+   "startOffset": 0,
+   "bpm": 72,
+   "melodyDensity": 3.12,
+   "difficulty": 3,
+   "popularity": 77372
+  },
+  {
+   "id": "joplin-solace",
+   "file": "songs/joplin-solace.mid",
+   "title": "Solace",
+   "composer": "Scott Joplin",
+   "year": 1909,
+   "genre": "Ragtime",
+   "license": "Public Domain",
+   "source": "Mutopia Project",
+   "sourceUrl": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=482",
+   "typesetter": "Magnus Lewis-Smith",
+   "edition": "Original Manuscript (1909)",
+   "mutopiaId": 482,
+   "melodyTracks": [
+    1
+   ],
+   "duration": 246.2,
+   "startOffset": 0,
+   "bpm": 72,
+   "melodyDensity": 3.06,
+   "difficulty": 3,
+   "popularity": 4793
+  },
+  {
+   "id": "joplin-elite-syncopations",
+   "file": "songs/joplin-elite-syncopations.mid",
+   "title": "Elite Syncopations",
+   "composer": "Scott Joplin",
+   "year": 1902,
+   "genre": "Ragtime",
+   "license": "Public Domain",
+   "source": "Mutopia Project",
+   "sourceUrl": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1540",
+   "typesetter": "Benjamin Bloomfield",
+   "edition": "John Stark & Son",
+   "mutopiaId": 1540,
+   "melodyTracks": [
+    1
+   ],
+   "duration": 295.5,
+   "startOffset": 0,
+   "bpm": 60,
+   "melodyDensity": 2.91,
+   "difficulty": 3,
+   "popularity": 1805
+  },
+  {
+   "id": "joplin-pineapple-rag",
+   "file": "songs/joplin-pineapple-rag.mid",
+   "title": "Pineapple Rag",
+   "composer": "Scott Joplin",
+   "year": 1908,
+   "genre": "Ragtime",
+   "license": "Public Domain",
+   "source": "Mutopia Project",
+   "sourceUrl": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1899",
+   "typesetter": "Coyau",
+   "edition": "Seminary Music Co., 1908.",
+   "mutopiaId": 1899,
+   "melodyTracks": [
+    1
+   ],
+   "duration": 177.3,
+   "startOffset": 0,
+   "bpm": 100,
+   "melodyDensity": 4.36,
+   "difficulty": 4,
+   "popularity": null
+  },
+  {
+   "id": "whiting-japanese-sandman",
+   "file": "songs/whiting-japanese-sandman.mid",
+   "title": "The Japanese Sandman",
+   "composer": "Richard A. Whiting",
+   "year": 1920,
+   "genre": "Jazz",
+   "license": "Public domain",
+   "source": "Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:\"The_Japanese_Sandman\",_by_Richard_A._Whiting.mid",
+   "typesetter": "Richard A. Whiting",
+   "melodyTracks": [
+    29
+   ],
+   "duration": 229.4,
+   "startOffset": 1.7,
+   "bpm": 120,
+   "melodyDensity": 1.32,
+   "difficulty": 2,
+   "popularity": 5350
+  },
+  {
+   "id": "deva-jazz",
+   "file": "songs/deva-jazz.mid",
+   "title": "Deva Jazz",
+   "composer": "Reginald A. A. De Koven (attr.)",
+   "year": 1920,
+   "genre": "Jazz",
+   "license": "Public domain",
+   "source": "Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Deva_Jazz.mid",
+   "typesetter": "Reginald Alberto Agrati Stoneham",
+   "melodyTracks": [
+    0
+   ],
+   "duration": 231.8,
+   "startOffset": 0,
+   "bpm": 120,
+   "melodyDensity": 3.1,
+   "difficulty": 3,
+   "popularity": null
+  },
+  {
+   "id": "doonan-enchanted-island",
+   "file": "songs/doonan-enchanted-island.mid",
+   "title": "Enchanted Island",
+   "composer": "S. C. Doonan",
+   "year": 1976,
+   "genre": "Jazz",
+   "license": "Creative Commons Attribution-ShareAlike 2.5",
+   "source": "Mutopia Project",
+   "sourceUrl": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=536",
+   "typesetter": "Stephen Charles Doonan",
+   "edition": "Composer",
+   "mutopiaId": 536,
+   "melodyTracks": [
+    1
+   ],
+   "duration": 152.4,
+   "startOffset": 8.1,
+   "bpm": 150,
+   "melodyDensity": 1.88,
+   "difficulty": 2,
+   "popularity": null
+  },
+  {
+   "id": "tarrega-recuerdos-de-la-alhambra",
+   "file": "songs/tarrega-recuerdos-de-la-alhambra.mid",
+   "title": "Recuerdos de la Alhambra",
+   "composer": "Francisco Tárrega",
+   "year": 1896,
+   "genre": "Spanish Guitar",
+   "license": "Creative Commons Attribution-ShareAlike 3.0",
+   "source": "Mutopia Project",
+   "sourceUrl": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=810",
+   "typesetter": "Stewart Holmes",
+   "edition": "Orfeo Tracio Edition",
+   "mutopiaId": 810,
+   "melodyTracks": [
+    1
+   ],
+   "duration": 141.1,
+   "startOffset": 0,
+   "bpm": 74,
+   "melodyDensity": 9.44,
+   "difficulty": 5,
+   "popularity": 19154
+  },
+  {
+   "id": "anon-spanish-romance",
+   "file": "songs/anon-spanish-romance.mid",
+   "title": "Spanish Romance (Romanza)",
+   "composer": "Anonymous",
+   "year": 1900,
+   "genre": "Spanish Guitar",
+   "license": "Creative Commons Attribution-ShareAlike 2.5",
+   "source": "Mutopia Project",
+   "sourceUrl": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=795",
+   "typesetter": "jeff covey",
+   "edition": "Manuscript",
+   "mutopiaId": 795,
+   "melodyTracks": [
+    1
+   ],
+   "duration": 63.3,
+   "startOffset": 0,
+   "bpm": 90,
+   "melodyDensity": 4.29,
+   "difficulty": 4,
+   "popularity": 87
+  },
+  {
+   "id": "tarrega-capricho-arabe",
+   "file": "songs/tarrega-capricho-arabe.mid",
+   "title": "Capricho Árabe",
+   "composer": "Francisco Tárrega",
+   "year": 1892,
+   "genre": "Spanish Guitar",
+   "license": "Creative Commons Attribution-ShareAlike 4.0",
+   "source": "Mutopia Project",
+   "sourceUrl": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1951",
+   "typesetter": "Glen Larsen",
+   "edition": "Valencia: Antich y Tena",
+   "mutopiaId": 1951,
+   "melodyTracks": [
+    1
+   ],
+   "duration": 186.7,
+   "startOffset": 0,
+   "bpm": 90,
+   "melodyDensity": 4.44,
+   "difficulty": 4,
+   "popularity": 53
+  },
+  {
+   "id": "worrall-spanish-fandango",
+   "file": "songs/worrall-spanish-fandango.mid",
+   "title": "Spanish Fandango",
+   "composer": "Henry Worrall",
+   "year": 1860,
+   "genre": "Spanish Guitar",
+   "license": "Public Domain",
+   "source": "Mutopia Project",
+   "sourceUrl": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=2036",
+   "typesetter": "David McNamara",
+   "edition": "J. Church & Co. version, 1882",
+   "mutopiaId": 2036,
+   "melodyTracks": [
+    1
+   ],
+   "duration": 164.6,
+   "startOffset": 0,
+   "bpm": 70,
+   "melodyDensity": 2.63,
+   "difficulty": 3,
+   "popularity": null
+  },
+  {
+   "id": "albeniz-rumores-de-la-caleta",
+   "file": "songs/albeniz-rumores-de-la-caleta.mid",
+   "title": "Rumores de la Caleta (Malagueña)",
+   "composer": "Isaac Albéniz",
+   "year": 1887,
+   "genre": "Spanish Guitar",
+   "license": "Public Domain",
+   "source": "Mutopia Project",
+   "sourceUrl": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=898",
+   "typesetter": "David Surtees",
+   "edition": "Union Musical Española",
+   "mutopiaId": 898,
+   "melodyTracks": [
+    1
+   ],
+   "duration": 262.0,
+   "startOffset": 0,
+   "bpm": 60,
+   "melodyDensity": 2.15,
+   "difficulty": 2,
+   "popularity": 1546
+  },
+  {
+   "id": "trad-greensleeves",
+   "file": "songs/trad-greensleeves.mid",
+   "title": "Greensleeves",
+   "composer": "Traditional (English)",
+   "year": 1580,
+   "genre": "Folk",
+   "license": "Public Domain",
+   "source": "Mutopia Project",
+   "sourceUrl": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=109",
+   "typesetter": "Aaron Fontaine",
+   "edition": "Unknown",
+   "mutopiaId": 109,
+   "melodyTracks": [
+    1
+   ],
+   "duration": 36.4,
+   "startOffset": 0,
+   "bpm": 160,
+   "melodyDensity": 1.98,
+   "difficulty": 2,
+   "popularity": 190125
+  },
+  {
+   "id": "trad-auld-lang-syne",
+   "file": "songs/trad-auld-lang-syne.mid",
+   "title": "Auld Lang Syne",
+   "composer": "Traditional (Scottish)",
+   "year": 1788,
+   "genre": "Folk",
+   "license": "Public Domain",
+   "source": "Mutopia Project",
+   "sourceUrl": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1121",
+   "typesetter": "Stan Sanderson",
+   "edition": "Boije collection #268",
+   "mutopiaId": 1121,
+   "melodyTracks": [
+    1
+   ],
+   "duration": 26.2,
+   "startOffset": 0,
+   "bpm": 72,
+   "melodyDensity": 2.21,
+   "difficulty": 3,
+   "popularity": 566752
+  },
+  {
+   "id": "trad-soldiers-joy",
+   "file": "songs/trad-soldiers-joy.mid",
+   "title": "Soldier's Joy",
+   "composer": "Traditional (fiddle tune)",
+   "year": 1760,
+   "genre": "Folk",
+   "license": "Public Domain",
+   "source": "Mutopia Project",
+   "sourceUrl": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=510",
+   "typesetter": "Taj Morton",
+   "edition": "Transcribed by ear",
+   "mutopiaId": 510,
+   "melodyTracks": [
+    1
+   ],
+   "duration": 36.5,
+   "startOffset": 0,
+   "bpm": 120,
+   "melodyDensity": 3.17,
+   "difficulty": 3,
+   "popularity": 312
+  },
+  {
+   "id": "foster-old-folks-at-home",
+   "file": "songs/foster-old-folks-at-home.mid",
+   "title": "Old Folks at Home (Swanee River)",
+   "composer": "Stephen Foster",
+   "year": 1851,
+   "genre": "Folk",
+   "license": "Creative Commons Attribution-ShareAlike 3.0",
+   "source": "Mutopia Project",
+   "sourceUrl": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1641",
+   "typesetter": "Louie van Bommel",
+   "edition": "Gems of The Season (arranged for guitar by W.L. Hayden) Boston: Ditson & Co., Oliver, 1881. Library of Congress http://memory.loc.gov/cgi-bin/ampage?collId=mussm&fileName=sm/sm1881/01900/01976/mussm01976.db&recNum=0&itemLink=h?ammem/mussm:@field(NUMBER+@band(sm1881+01976))&linkText=0",
+   "mutopiaId": 1641,
+   "melodyTracks": [
+    1
+   ],
+   "duration": 95.0,
+   "startOffset": 0,
+   "bpm": 60,
+   "melodyDensity": 1.23,
+   "difficulty": 2,
+   "popularity": 44433
+  },
+  {
+   "id": "liliuokalani-aloha-oe",
+   "file": "songs/liliuokalani-aloha-oe.mid",
+   "title": "Aloha ʻOe",
+   "composer": "Queen Liliʻuokalani",
+   "year": 1878,
+   "genre": "Folk",
+   "license": "Public domain",
+   "source": "Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aloha_oe_song_midi.mid",
+   "typesetter": "Liliʻuokalani",
+   "melodyTracks": [
+    5,
+    1
+   ],
+   "duration": 48.8,
+   "startOffset": 9.68,
+   "bpm": 102,
+   "melodyDensity": 2.14,
+   "difficulty": 2,
+   "popularity": 84419
+  },
+  {
+   "id": "trad-echigo-jishi",
+   "file": "songs/trad-echigo-jishi.mid",
+   "title": "Echigo Jishi (koto)",
+   "composer": "Traditional (Japanese)",
+   "year": 1800,
+   "genre": "Folk",
+   "license": "Public Domain",
+   "source": "Mutopia Project",
+   "sourceUrl": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1985",
+   "typesetter": "patrick stanistreet",
+   "edition": "Nagai, Iwai and Obata, Kenhachiro, \"Seiyo gakufu Nihon zokkyokushu\", pub. Miki Shoten, Osaka, 1895. English title, \"A Collection of Japanese Popular Music.\"",
+   "mutopiaId": 1985,
+   "melodyTracks": [
+    1
+   ],
+   "duration": 62.0,
+   "startOffset": 0,
+   "bpm": 90,
+   "melodyDensity": 2.63,
+   "difficulty": 3,
+   "popularity": null
+  },
+  {
+   "id": "newton-amazing-grace",
+   "file": "songs/newton-amazing-grace.mid",
+   "title": "Amazing Grace (New Britain)",
+   "composer": "Traditional / John Newton",
+   "year": 1779,
+   "genre": "Hymn",
+   "license": "Public Domain",
+   "source": "Mutopia Project",
+   "sourceUrl": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1283",
+   "typesetter": "Steve Dunlop",
+   "edition": "www.cyberhymnal.org",
+   "mutopiaId": 1283,
+   "melodyTracks": [
+    1
+   ],
+   "duration": 45.0,
+   "startOffset": 0,
+   "bpm": 60,
+   "melodyDensity": 0.8,
+   "difficulty": 1,
+   "popularity": 359270
+  },
+  {
+   "id": "bach-o-sacred-head",
+   "file": "songs/bach-o-sacred-head.mid",
+   "title": "O Sacred Head, Now Wounded (St Matthew Passion)",
+   "composer": "Johann Sebastian Bach",
+   "year": 1727,
+   "genre": "Hymn",
+   "license": "Public Domain",
+   "source": "Mutopia Project",
+   "sourceUrl": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=107",
+   "typesetter": "dwb",
+   "edition": "Edition Peters",
+   "mutopiaId": 107,
+   "melodyTracks": [
+    1
+   ],
+   "duration": 64.0,
+   "startOffset": 0,
+   "bpm": 60,
+   "melodyDensity": 1.12,
+   "difficulty": 1,
+   "popularity": 23494
+  },
+  {
+   "id": "trad-veni-emmanuel",
+   "file": "songs/trad-veni-emmanuel.mid",
+   "title": "O Come, O Come, Emmanuel",
+   "composer": "Traditional (plainchant)",
+   "year": 1400,
+   "genre": "Hymn",
+   "license": "Public Domain",
+   "source": "Mutopia Project",
+   "sourceUrl": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1300",
+   "typesetter": "Steve Dunlop",
+   "edition": "www.cyberhymnal.org",
+   "mutopiaId": 1300,
+   "melodyTracks": [
+    1
+   ],
+   "duration": 36.0,
+   "startOffset": 0,
+   "bpm": 60,
+   "melodyDensity": 1.69,
+   "difficulty": 2,
+   "popularity": 35391
+  },
+  {
+   "id": "gruber-silent-night",
+   "file": "songs/gruber-silent-night.mid",
+   "title": "Silent Night",
+   "composer": "Franz Xaver Gruber",
+   "year": 1818,
+   "genre": "Christmas",
+   "license": "Public Domain",
+   "source": "Mutopia Project",
+   "sourceUrl": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=81",
+   "typesetter": "Peter Chubb",
+   "edition": "http://www.mutopiaproject.org/ftp/GruberFX/altenoten.jpg",
+   "mutopiaId": 81,
+   "melodyTracks": [
+    1
+   ],
+   "duration": 25.7,
+   "startOffset": 0,
+   "bpm": 90,
+   "melodyDensity": 2.25,
+   "difficulty": 3,
+   "popularity": 78325
+  },
+  {
+   "id": "adam-o-holy-night",
+   "file": "songs/adam-o-holy-night.mid",
+   "title": "O Holy Night (Minuit, chrétiens)",
+   "composer": "Adolphe Adam",
+   "year": 1847,
+   "genre": "Christmas",
+   "license": "Public Domain",
+   "source": "Mutopia Project",
+   "sourceUrl": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=640",
+   "typesetter": "Gérard Gréco",
+   "edition": "Ed. Léon Grus",
+   "mutopiaId": 640,
+   "melodyTracks": [
+    2
+   ],
+   "duration": 68.6,
+   "startOffset": 1.58,
+   "bpm": 112,
+   "melodyDensity": 1.82,
+   "difficulty": 2,
+   "popularity": 55334
+  },
+  {
+   "id": "wade-adeste-fideles",
+   "file": "songs/wade-adeste-fideles.mid",
+   "title": "O Come, All Ye Faithful (Adeste Fideles)",
+   "composer": "John Francis Wade",
+   "year": 1751,
+   "genre": "Christmas",
+   "license": "Public Domain",
+   "source": "Mutopia Project",
+   "sourceUrl": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=367",
+   "typesetter": "Matt Corks",
+   "edition": "Cantus Diversi, 1751",
+   "mutopiaId": 367,
+   "melodyTracks": [
+    1
+   ],
+   "duration": 42.5,
+   "startOffset": 0,
+   "bpm": 120,
+   "melodyDensity": 1.6,
+   "difficulty": 2,
+   "popularity": 42513
+  },
+  {
+   "id": "handel-joy-to-the-world",
+   "file": "songs/handel-joy-to-the-world.mid",
+   "title": "Joy to the World (Antioch)",
+   "composer": "Lowell Mason / G. F. Handel",
+   "year": 1839,
+   "genre": "Christmas",
+   "license": "Public Domain",
+   "source": "Mutopia Project",
+   "sourceUrl": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1223",
+   "typesetter": "Steve Dunlop",
+   "edition": "www.cyberhymnal.org",
+   "mutopiaId": 1223,
+   "melodyTracks": [
+    1
+   ],
+   "duration": 38.0,
+   "startOffset": 0,
+   "bpm": 60,
+   "melodyDensity": 1.5,
+   "difficulty": 2,
+   "popularity": 44652
+  },
+  {
+   "id": "pierpont-jingle-bells",
+   "file": "songs/pierpont-jingle-bells.mid",
+   "title": "Jingle Bells",
+   "composer": "James Lord Pierpont",
+   "year": 1857,
+   "genre": "Christmas",
+   "license": "Public domain",
+   "source": "Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jingle_Bells_full_Ab.mid",
+   "typesetter": "Hyacinth",
+   "melodyTracks": [
+    1
+   ],
+   "duration": 144.2,
+   "startOffset": 6.5,
+   "bpm": 120,
+   "melodyDensity": 3.11,
+   "difficulty": 3,
+   "popularity": 125084
+  },
+  {
+   "id": "sousa-stars-and-stripes",
+   "file": "songs/sousa-stars-and-stripes.mid",
+   "title": "The Stars and Stripes Forever",
+   "composer": "John Philip Sousa",
+   "year": 1896,
+   "genre": "March",
+   "license": "Public Domain",
+   "source": "Mutopia Project",
+   "sourceUrl": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=626",
+   "typesetter": "Benjamin Bloomfield",
+   "edition": "Cincinnati: The John Church Company, 1897",
+   "mutopiaId": 626,
+   "melodyTracks": [
+    1
+   ],
+   "duration": 211.8,
+   "startOffset": 0,
+   "bpm": 240,
+   "melodyDensity": 2.95,
+   "difficulty": 3,
+   "popularity": 65550
+  },
+  {
+   "id": "sousa-liberty-bell",
+   "file": "songs/sousa-liberty-bell.mid",
+   "title": "The Liberty Bell",
+   "composer": "John Philip Sousa",
+   "year": 1893,
+   "genre": "March",
+   "license": "Public Domain",
+   "source": "Mutopia Project",
+   "sourceUrl": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=625",
+   "typesetter": "Benjamin Bloomfield",
+   "edition": "The John Church Company",
+   "mutopiaId": 625,
+   "melodyTracks": [
+    1
+   ],
+   "duration": 190.7,
+   "startOffset": 0,
+   "bpm": 200,
+   "melodyDensity": 3.52,
+   "difficulty": 4,
+   "popularity": 15855
+  },
+  {
+   "id": "schubert-marche-militaire",
+   "file": "songs/schubert-marche-militaire.mid",
+   "title": "Marche militaire No. 1, D. 733",
+   "composer": "Franz Schubert",
+   "year": 1818,
+   "genre": "March",
+   "license": "Public Domain",
+   "source": "Mutopia Project",
+   "sourceUrl": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1545",
+   "typesetter": "Ph. Raynaud",
+   "edition": "Breitkopf & Härtel",
+   "mutopiaId": 1545,
+   "melodyTracks": [
+    3
+   ],
+   "duration": 272.0,
+   "startOffset": 6.5,
+   "bpm": 120,
+   "melodyDensity": 3.54,
+   "difficulty": 4,
+   "popularity": 543
+  },
+  {
+   "id": "key-star-spangled-banner",
+   "file": "songs/key-star-spangled-banner.mid",
+   "title": "The Star-Spangled Banner",
+   "composer": "John Stafford Smith / Francis Scott Key",
+   "year": 1814,
+   "genre": "Anthem",
+   "license": "Public domain",
+   "source": "Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:2_Star_Spangled_Banner.mid",
+   "typesetter": "Hyacinth",
+   "melodyTracks": [
+    1
+   ],
+   "duration": 59.7,
+   "startOffset": 0,
+   "bpm": 100,
+   "melodyDensity": 1.73,
+   "difficulty": 2,
+   "popularity": 1003235
+  },
+  {
+   "id": "rouget-la-marseillaise",
+   "file": "songs/rouget-la-marseillaise.mid",
+   "title": "La Marseillaise",
+   "composer": "Claude Joseph Rouget de Lisle",
+   "year": 1792,
+   "genre": "Anthem",
+   "license": "Public Domain",
+   "source": "Mutopia Project",
+   "sourceUrl": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1153",
+   "typesetter": "Stan Sanderson",
+   "edition": "Boije collection #268",
+   "mutopiaId": 1153,
+   "melodyTracks": [
+    1
+   ],
+   "duration": 73.5,
+   "startOffset": 0,
+   "bpm": 72,
+   "melodyDensity": 1.84,
+   "difficulty": 2,
+   "popularity": 292780
+  },
+  {
+   "id": "verdi-brindisi",
+   "file": "songs/verdi-brindisi.mid",
+   "title": "Brindisi 'Libiamo ne' lieti calici' (La traviata)",
+   "composer": "Giuseppe Verdi",
+   "year": 1853,
+   "genre": "Opera",
+   "license": "Public Domain",
+   "source": "Mutopia Project",
+   "sourceUrl": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1215",
+   "typesetter": "Alberto Corella",
+   "edition": "Calcografía de la 'Nueva Biblioteca Musical Económica', 1857-1869",
+   "mutopiaId": 1215,
+   "melodyTracks": [
+    1
+   ],
+   "duration": 288.5,
+   "startOffset": 1.0,
+   "bpm": 60,
+   "melodyDensity": 1.95,
+   "difficulty": 2,
+   "popularity": 27080
+  },
+  {
+   "id": "schubert-erlkonig",
+   "file": "songs/schubert-erlkonig.mid",
+   "title": "Erlkönig, D. 328",
+   "composer": "Franz Schubert",
+   "year": 1815,
+   "genre": "Opera",
+   "license": "Public Domain",
+   "source": "Mutopia Project",
+   "sourceUrl": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1030",
+   "typesetter": "Ph. Raynaud",
+   "edition": "C.F. Peters (Band I)",
+   "mutopiaId": 1030,
+   "melodyTracks": [
+    1
+   ],
+   "duration": 239.0,
+   "startOffset": 21.79,
+   "bpm": 152,
+   "melodyDensity": 1.57,
+   "difficulty": 2,
+   "popularity": 37721
+  },
+  {
+   "id": "bizet-carmen-prelude",
+   "file": "songs/bizet-carmen-prelude.mid",
+   "title": "Carmen: Prelude",
+   "composer": "Georges Bizet",
+   "year": 1875,
+   "genre": "Opera",
+   "license": "Creative Commons Attribution-ShareAlike 2.5",
+   "source": "Mutopia Project",
+   "sourceUrl": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=635",
+   "typesetter": "Alex O'S",
+   "edition": "Schirmer, 1895",
+   "mutopiaId": 635,
+   "melodyTracks": [
+    1
+   ],
+   "duration": 164.8,
+   "startOffset": 0,
+   "bpm": 116,
+   "melodyDensity": 3.48,
+   "difficulty": 3,
+   "popularity": 449193
+  },
+  {
+   "id": "chopin-minute-waltz",
+   "file": "songs/chopin-minute-waltz.mid",
+   "title": "Minute Waltz, Op. 64 No. 1",
+   "composer": "Frédéric Chopin",
+   "year": 1847,
+   "genre": "Waltz",
+   "license": "Public Domain",
+   "source": "Mutopia Project",
+   "sourceUrl": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=483",
+   "typesetter": "Magnus Lewis-Smith",
+   "edition": "Edition Peters",
+   "mutopiaId": 483,
+   "melodyTracks": [
+    1
+   ],
+   "duration": 89.8,
+   "startOffset": 0,
+   "bpm": 280,
+   "melodyDensity": 7.66,
+   "difficulty": 5,
+   "popularity": null
+  },
+  {
+   "id": "strauss-blue-danube",
+   "file": "songs/strauss-blue-danube.mid",
+   "title": "The Blue Danube (main theme)",
+   "composer": "Johann Strauss II",
+   "year": 1866,
+   "genre": "Waltz",
+   "license": "Creative Commons Attribution-ShareAlike 4.0",
+   "source": "Mutopia Project",
+   "sourceUrl": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=519",
+   "typesetter": "Nikos Kouremenos",
+   "edition": "Christian Mondrup, from the Werner Icking Music Archive",
+   "mutopiaId": 519,
+   "melodyTracks": [
+    1
+   ],
+   "duration": 39.2,
+   "startOffset": 0,
+   "bpm": 150,
+   "melodyDensity": 1.84,
+   "difficulty": 2,
+   "popularity": 121163
+  },
+  {
+   "id": "strauss-thunder-and-lightning",
+   "file": "songs/strauss-thunder-and-lightning.mid",
+   "title": "Thunder and Lightning Polka, Op. 324",
+   "composer": "Johann Strauss II",
+   "year": 1868,
+   "genre": "Waltz",
+   "license": "Public Domain",
+   "source": "Mutopia Project",
+   "sourceUrl": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=610",
+   "typesetter": "Stan Sanderson",
+   "edition": "C. M. Cady, Pub. 1878",
+   "mutopiaId": 610,
+   "melodyTracks": [
+    1
+   ],
+   "duration": 193.0,
+   "startOffset": 0,
+   "bpm": 120,
+   "melodyDensity": 2.81,
+   "difficulty": 3,
+   "popularity": null
+  },
+  {
+   "id": "bourgeois-old-100th",
+   "file": "songs/bourgeois-old-100th.mid",
+   "title": "Old 100th (All People That on Earth Do Dwell)",
+   "composer": "Louis Bourgeois",
+   "year": 1551,
+   "genre": "Hymn",
+   "license": "Public Domain",
+   "source": "Mutopia Project",
+   "sourceUrl": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=194",
+   "typesetter": "Peter Chubb",
+   "edition": "Geneva Psalter 1551",
+   "mutopiaId": 194,
+   "melodyTracks": [
+    1
+   ],
+   "duration": 24.0,
+   "startOffset": 0,
+   "bpm": 240,
+   "melodyDensity": 1.42,
+   "difficulty": 2,
+   "popularity": 24853
+  },
+  {
+   "id": "holst-thaxted",
+   "file": "songs/holst-thaxted.mid",
+   "title": "Thaxted (I Vow to Thee, My Country)",
+   "composer": "Gustav Holst",
+   "year": 1921,
+   "genre": "Hymn",
+   "license": "Public Domain",
+   "source": "Mutopia Project",
+   "sourceUrl": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=527",
+   "typesetter": "Peter Chubb",
+   "edition": "Methodist Hymnbook 1933, number 900",
+   "mutopiaId": 527,
+   "melodyTracks": [
+    1
+   ],
+   "duration": 43.2,
+   "startOffset": 0,
+   "bpm": 100,
+   "melodyDensity": 2.08,
+   "difficulty": 2,
+   "popularity": 29965
+  },
+  {
+   "id": "trad-st-denio",
+   "file": "songs/trad-st-denio.mid",
+   "title": "St. Denio (Immortal, Invisible)",
+   "composer": "Traditional (Welsh)",
+   "year": 1839,
+   "genre": "Hymn",
+   "license": "Public Domain",
+   "source": "Mutopia Project",
+   "sourceUrl": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1291",
+   "typesetter": "Steve Dunlop",
+   "edition": "www.cyberhymnal.org",
+   "mutopiaId": 1291,
+   "melodyTracks": [
+    1
+   ],
+   "duration": 48.0,
+   "startOffset": 0,
+   "bpm": 60,
+   "melodyDensity": 0.96,
+   "difficulty": 1,
+   "popularity": 7487
+  },
+  {
+   "id": "trad-lobe-den-herren",
+   "file": "songs/trad-lobe-den-herren.mid",
+   "title": "Lobe den Herren (Praise to the Lord, the Almighty)",
+   "composer": "Stralsund Gesangbuch",
+   "year": 1665,
+   "genre": "Hymn",
+   "license": "Public Domain",
+   "source": "Mutopia Project",
+   "sourceUrl": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1256",
+   "typesetter": "Steve Dunlop",
+   "edition": "www.cyberhymnal.org",
+   "mutopiaId": 1256,
+   "melodyTracks": [
+    1
+   ],
+   "duration": 63.0,
+   "startOffset": 0,
+   "bpm": 60,
+   "melodyDensity": 0.87,
+   "difficulty": 1,
+   "popularity": 15176
+  },
+  {
+   "id": "trad-easter-hymn",
+   "file": "songs/trad-easter-hymn.mid",
+   "title": "Easter Hymn (Christ the Lord Is Risen Today)",
+   "composer": "Lyra Davidica",
+   "year": 1708,
+   "genre": "Hymn",
+   "license": "Public Domain",
+   "source": "Mutopia Project",
+   "sourceUrl": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=442",
+   "typesetter": "Peter Chubb",
+   "edition": "Methodist Hymnbook 1933",
+   "mutopiaId": 442,
+   "melodyTracks": [
+    1
+   ],
+   "duration": 32.0,
+   "startOffset": 0,
+   "bpm": 120,
+   "melodyDensity": 2.31,
+   "difficulty": 3,
+   "popularity": 13599
+  },
+  {
+   "id": "trad-the-first-noel",
+   "file": "songs/trad-the-first-noel.mid",
+   "title": "The First Noel",
+   "composer": "Traditional (English)",
+   "year": 1823,
+   "genre": "Christmas",
+   "license": "Public Domain",
+   "source": "Mutopia Project",
+   "sourceUrl": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1243",
+   "typesetter": "Steve Dunlop",
+   "edition": "www.cyberhymnal.org",
+   "mutopiaId": 1243,
+   "melodyTracks": [
+    1
+   ],
+   "duration": 72.0,
+   "startOffset": 0,
+   "bpm": 60,
+   "melodyDensity": 1.01,
+   "difficulty": 1,
+   "popularity": 724
+  },
+  {
+   "id": "trad-good-king-wenceslas",
+   "file": "songs/trad-good-king-wenceslas.mid",
+   "title": "Good King Wenceslas",
+   "composer": "Traditional (Piae Cantiones)",
+   "year": 1582,
+   "genre": "Christmas",
+   "license": "Public Domain",
+   "source": "Mutopia Project",
+   "sourceUrl": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=905",
+   "typesetter": "James Kilfiger",
+   "edition": "Sheet Music from Rev. Charles Lewis Hutchins, Carols Old and Carols New (Boston: Parish Choir, 1916), Carol #415",
+   "mutopiaId": 905,
+   "melodyTracks": [
+    1
+   ],
+   "duration": 34.0,
+   "startOffset": 0,
+   "bpm": 120,
+   "melodyDensity": 1.56,
+   "difficulty": 2,
+   "popularity": 84408
+  },
+  {
+   "id": "mendelssohn-hark-the-herald",
+   "file": "songs/mendelssohn-hark-the-herald.mid",
+   "title": "Hark! The Herald Angels Sing",
+   "composer": "Felix Mendelssohn / Charles Wesley",
+   "year": 1840,
+   "genre": "Christmas",
+   "license": "Public domain",
+   "source": "Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hark!_The_Herald_Angels_Sing.mid",
+   "typesetter": "Felix Mendelssohn",
+   "melodyTracks": [
+    0
+   ],
+   "duration": 41.9,
+   "startOffset": 0.5,
+   "bpm": 120,
+   "melodyDensity": 1.9,
+   "difficulty": 2,
+   "popularity": 36752
+  },
+  {
+   "id": "brahms-waltz-op39-15",
+   "file": "songs/brahms-waltz-op39-15.mid",
+   "title": "Waltz in A-flat major, Op. 39 No. 15",
+   "composer": "Johannes Brahms",
+   "year": 1865,
+   "genre": "Waltz",
+   "license": "Public Domain",
+   "source": "Mutopia Project",
+   "sourceUrl": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=794",
+   "typesetter": "Brian D. Rude",
+   "edition": "Ed. R. Joseffy",
+   "mutopiaId": 794,
+   "melodyTracks": [
+    1
+   ],
+   "duration": 67.8,
+   "startOffset": 0,
+   "bpm": 116,
+   "melodyDensity": 2.78,
+   "difficulty": 3,
+   "popularity": 7078
+  },
+  {
+   "id": "chopin-waltz-op69-2",
+   "file": "songs/chopin-waltz-op69-2.mid",
+   "title": "Waltz in B minor, Op. 69 No. 2",
+   "composer": "Frédéric Chopin",
+   "year": 1829,
+   "genre": "Waltz",
+   "license": "Public Domain",
+   "source": "Mutopia Project",
+   "sourceUrl": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=511",
+   "typesetter": "Roland Goretzki",
+   "edition": "Peters, Herrmann Scholtz, 1900a",
+   "mutopiaId": 511,
+   "melodyTracks": [
+    1
+   ],
+   "duration": 171.7,
+   "startOffset": 0,
+   "bpm": 152,
+   "melodyDensity": 3.48,
+   "difficulty": 3,
+   "popularity": 6292
+  },
+  {
+   "id": "streabbog-les-etoiles-dor",
+   "file": "songs/streabbog-les-etoiles-dor.mid",
+   "title": "Les étoiles d'or, Valse",
+   "composer": "Louis Streabbog",
+   "year": 1870,
+   "genre": "Waltz",
+   "license": "Creative Commons Attribution-ShareAlike 4.0",
+   "source": "Mutopia Project",
+   "sourceUrl": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=2092",
+   "typesetter": "Masamichi Hosoda",
+   "edition": "G. Morosini & Co., 1882. The Crown Edition.",
+   "mutopiaId": 2092,
+   "melodyTracks": [
+    1
+   ],
+   "duration": 96.4,
+   "startOffset": 0,
+   "bpm": 150,
+   "melodyDensity": 1.78,
+   "difficulty": 2,
+   "popularity": null
+  },
+  {
+   "id": "strauss-sr-tauberln-walzer",
+   "file": "songs/strauss-sr-tauberln-walzer.mid",
+   "title": "Täuberln-Walzer, Op. 1 No. 8",
+   "composer": "Johann Strauss I",
+   "year": 1826,
+   "genre": "Waltz",
+   "license": "Public domain",
+   "source": "Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Johann_Strauss_Sr_Tauberln-Walzer,_Op_1,_No_8.mid",
+   "typesetter": "Johann Strauss I",
+   "melodyTracks": [
+    1
+   ],
+   "duration": 51.9,
+   "startOffset": 0,
+   "bpm": 140,
+   "melodyDensity": 3.32,
+   "difficulty": 3,
+   "popularity": null
+  },
+  {
+   "id": "mozart-magic-flute-overture",
+   "file": "songs/mozart-magic-flute-overture.mid",
+   "title": "The Magic Flute: Overture",
+   "composer": "Wolfgang Amadeus Mozart",
+   "year": 1791,
+   "genre": "Opera",
+   "license": "Public Domain",
+   "source": "Mutopia Project",
+   "sourceUrl": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=248",
+   "typesetter": "Deborah Lowrey",
+   "edition": "J. L. Peters 1875, C. F. Peters 18??, Lee & Walker 1870, North & Co. 1879",
+   "mutopiaId": 248,
+   "melodyTracks": [
+    7
+   ],
+   "duration": 197.6,
+   "startOffset": 0,
+   "bpm": 150,
+   "melodyDensity": 3.99,
+   "difficulty": 4,
+   "popularity": 327212
+  },
+  {
+   "id": "mozart-deh-vieni-alla-finestra",
+   "file": "songs/mozart-deh-vieni-alla-finestra.mid",
+   "title": "Deh, vieni alla finestra (Don Giovanni)",
+   "composer": "Wolfgang Amadeus Mozart",
+   "year": 1787,
+   "genre": "Opera",
+   "license": "Public Domain",
+   "source": "Mutopia Project",
+   "sourceUrl": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=189",
+   "typesetter": "Erik Sandberg",
+   "edition": "Neue Mozartausgabe",
+   "mutopiaId": 189,
+   "melodyTracks": [
+    1
+   ],
+   "duration": 107.9,
+   "startOffset": 0,
+   "bpm": 72,
+   "melodyDensity": 4.22,
+   "difficulty": 4,
+   "popularity": 216706
+  },
+  {
+   "id": "purcell-cold-song",
+   "file": "songs/purcell-cold-song.mid",
+   "title": "What Power Art Thou (the Cold Song, King Arthur)",
+   "composer": "Henry Purcell",
+   "year": 1691,
+   "genre": "Opera",
+   "license": "Public Domain",
+   "source": "Mutopia Project",
+   "sourceUrl": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=2243",
+   "typesetter": "Anonymous",
+   "edition": "Dryden's Opera of / King Arthur / The Music Composed by / Henry Purcell / With a Piano Forte Accomp. / Compressed from the Score / By / G. Alex. Macfarren, / Professor of Harmony / at the Royal Academy of Music / London, Printed & Sold by Chappell. / Music Seller to Her Majesty / 50, New Bond Street. (IMSLP82155-PMLP69503)",
+   "mutopiaId": 2243,
+   "melodyTracks": [
+    1
+   ],
+   "duration": 189.3,
+   "startOffset": 42.5,
+   "bpm": 45,
+   "melodyDensity": 1.21,
+   "difficulty": 2,
+   "popularity": 20941
+  },
+  {
+   "id": "bizet-carmen-entracte",
+   "file": "songs/bizet-carmen-entracte.mid",
+   "title": "Carmen: Entr'acte",
+   "composer": "Georges Bizet",
+   "year": 1875,
+   "genre": "Opera",
+   "license": "Creative Commons Attribution-ShareAlike 2.5",
+   "source": "Mutopia Project",
+   "sourceUrl": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=649",
+   "typesetter": "Alex O'S",
+   "edition": "Schirmer, 1895",
+   "mutopiaId": 649,
+   "melodyTracks": [
+    1
+   ],
+   "duration": 178.5,
+   "startOffset": 0,
+   "bpm": 60,
+   "melodyDensity": 1.62,
+   "difficulty": 2,
+   "popularity": 449193
+  },
+  {
+   "id": "verdi-traviata-prelude",
+   "file": "songs/verdi-traviata-prelude.mid",
+   "title": "La traviata: Prelude",
+   "composer": "Giuseppe Verdi",
+   "year": 1853,
+   "genre": "Opera",
+   "license": "Public Domain",
+   "source": "Mutopia Project",
+   "sourceUrl": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1213",
+   "typesetter": "Alberto Corella",
+   "edition": "Calcografía de la 'Nueva Biblioteca Musical Económica', 1857-1869",
+   "mutopiaId": 1213,
+   "melodyTracks": [
+    1
+   ],
+   "duration": 194.0,
+   "startOffset": 0,
+   "bpm": 60,
+   "melodyDensity": 1.95,
+   "difficulty": 2,
+   "popularity": 224171
+  },
+  {
+   "id": "joplin-the-easy-winners",
+   "file": "songs/joplin-the-easy-winners.mid",
+   "title": "The Easy Winners",
+   "composer": "Scott Joplin",
+   "year": 1901,
+   "genre": "Ragtime",
+   "license": "Public Domain",
+   "source": "Mutopia Project",
+   "sourceUrl": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=352",
+   "typesetter": "Tom Harke",
+   "edition": "Reproduction of Original Edition",
+   "mutopiaId": 352,
+   "melodyTracks": [
+    1
+   ],
+   "duration": 303.5,
+   "startOffset": 0,
+   "bpm": 60,
+   "melodyDensity": 2.78,
+   "difficulty": 3,
+   "popularity": 2891
+  },
+  {
+   "id": "joplin-bethena",
+   "file": "songs/joplin-bethena.mid",
+   "title": "Bethena",
+   "composer": "Scott Joplin",
+   "year": 1905,
+   "genre": "Ragtime",
+   "license": "Public Domain",
+   "source": "Mutopia Project",
+   "sourceUrl": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=463",
+   "typesetter": "Magnus Lewis-Smith",
+   "edition": "Original Manuscript",
+   "mutopiaId": 463,
+   "melodyTracks": [
+    1
+   ],
+   "duration": 262.8,
+   "startOffset": 0,
+   "bpm": 150,
+   "melodyDensity": 2.98,
+   "difficulty": 3,
+   "popularity": 4700
+  },
+  {
+   "id": "turpin-harlem-rag",
+   "file": "songs/turpin-harlem-rag.mid",
+   "title": "Harlem Rag",
+   "composer": "Tom Turpin",
+   "year": 1897,
+   "genre": "Ragtime",
+   "license": "Public Domain",
+   "source": "Mutopia Project",
+   "sourceUrl": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=443",
+   "typesetter": "Stan Sanderson",
+   "edition": "Jos. Stern & Co.",
+   "mutopiaId": 443,
+   "melodyTracks": [
+    1
+   ],
+   "duration": 191.2,
+   "startOffset": 0,
+   "bpm": 72,
+   "melodyDensity": 2.31,
+   "difficulty": 3,
+   "popularity": null
+  },
+  {
+   "id": "tarrega-adelita",
+   "file": "songs/tarrega-adelita.mid",
+   "title": "Adelita",
+   "composer": "Francisco Tárrega",
+   "year": 1890,
+   "genre": "Spanish Guitar",
+   "license": "Creative Commons Attribution-ShareAlike 2.5",
+   "source": "Mutopia Project",
+   "sourceUrl": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=808",
+   "typesetter": "Stewart Holmes",
+   "edition": "Boije Collection, Statens musikbibliotek - The Music Library of Sweden",
+   "mutopiaId": 808,
+   "melodyTracks": [
+    1
+   ],
+   "duration": 40.3,
+   "startOffset": 0,
+   "bpm": 70,
+   "melodyDensity": 1.84,
+   "difficulty": 2,
+   "popularity": null
+  },
+  {
+   "id": "sor-study-op35-22",
+   "file": "songs/sor-study-op35-22.mid",
+   "title": "Study in B minor, Op. 35 No. 22",
+   "composer": "Fernando Sor",
+   "year": 1828,
+   "genre": "Spanish Guitar",
+   "license": "Creative Commons Attribution-ShareAlike 3.0",
+   "source": "Mutopia Project",
+   "sourceUrl": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1850",
+   "typesetter": "Glen Larsen",
+   "edition": "N. Simrock",
+   "mutopiaId": 1850,
+   "melodyTracks": [
+    2
+   ],
+   "duration": 85.8,
+   "startOffset": 0,
+   "bpm": 100,
+   "melodyDensity": 1.08,
+   "difficulty": 1,
+   "popularity": null
+  },
+  {
+   "id": "tarrega-lagrima",
+   "file": "songs/tarrega-lagrima.mid",
+   "title": "Lágrima",
+   "composer": "Francisco Tárrega",
+   "year": 1891,
+   "genre": "Spanish Guitar",
+   "license": "Public Domain",
+   "source": "Mutopia Project",
+   "sourceUrl": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=2103",
+   "typesetter": "Jeffrey Olson",
+   "edition": "Madrid: Ildefonso Alier, n.d. Plate 5230 A",
+   "mutopiaId": 2103,
+   "melodyTracks": [
+    1
+   ],
+   "duration": 47.0,
+   "startOffset": 0,
+   "bpm": 60,
+   "melodyDensity": 1.4,
+   "difficulty": 2,
+   "popularity": 18
+  },
+  {
+   "id": "debussy-arabesque-2",
+   "file": "songs/debussy-arabesque-2.mid",
+   "title": "Arabesque No. 2",
+   "composer": "Claude Debussy",
+   "year": 1891,
+   "genre": "Impressionist",
+   "license": "Creative Commons Attribution-ShareAlike 4.0",
+   "source": "Mutopia Project",
+   "sourceUrl": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1994",
+   "typesetter": "Knute Snortum",
+   "edition": "Paris: Durand et Schoenewerk, n.d.[1891]. Plates D.S. 4395-96",
+   "mutopiaId": 1994,
+   "melodyTracks": [
+    1
+   ],
+   "duration": 218.2,
+   "startOffset": 0,
+   "bpm": 120,
+   "melodyDensity": 4.25,
+   "difficulty": 4,
+   "popularity": 1457
+  },
+  {
+   "id": "satie-gymnopedie-3",
+   "file": "songs/satie-gymnopedie-3.mid",
+   "title": "Gymnopédie No. 3",
+   "composer": "Erik Satie",
+   "year": 1888,
+   "genre": "Impressionist",
+   "license": "Public Domain",
+   "source": "Mutopia Project",
+   "sourceUrl": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=39",
+   "typesetter": "Evin Robertson",
+   "edition": "Dover Edition",
+   "mutopiaId": 39,
+   "melodyTracks": [
+    1
+   ],
+   "duration": 180.0,
+   "startOffset": 0,
+   "bpm": 60,
+   "melodyDensity": 0.59,
+   "difficulty": 1,
+   "popularity": 137312
+  },
+  {
+   "id": "sousa-washington-post",
+   "file": "songs/sousa-washington-post.mid",
+   "title": "The Washington Post",
+   "composer": "John Philip Sousa",
+   "year": 1889,
+   "genre": "March",
+   "license": "Creative Commons Attribution-ShareAlike 3.0",
+   "source": "Mutopia Project",
+   "sourceUrl": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1321",
+   "typesetter": "Renato Biolcati Rinaldi",
+   "edition": "D. Davis & Co. Sydney, 189-?",
+   "mutopiaId": 1321,
+   "melodyTracks": [
+    1
+   ],
+   "duration": 151.8,
+   "startOffset": 0,
+   "bpm": 180,
+   "melodyDensity": 3.03,
+   "difficulty": 3,
+   "popularity": 19197
+  },
+  {
+   "id": "sousa-el-capitan",
+   "file": "songs/sousa-el-capitan.mid",
+   "title": "El Capitan",
+   "composer": "John Philip Sousa",
+   "year": 1896,
+   "genre": "March",
+   "license": "Public Domain",
+   "source": "Mutopia Project",
+   "sourceUrl": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=600",
+   "typesetter": "Benjamin Bloomfield",
+   "edition": "The John Church Company",
+   "mutopiaId": 600,
+   "melodyTracks": [
+    2
+   ],
+   "duration": 98.2,
+   "startOffset": 0,
+   "bpm": 180,
+   "melodyDensity": 4.08,
+   "difficulty": 4,
+   "popularity": 488
+  },
+  {
+   "id": "tchaikovsky-wooden-soldiers",
+   "file": "songs/tchaikovsky-wooden-soldiers.mid",
+   "title": "March of the Wooden Soldiers (Children's Album)",
+   "composer": "Pyotr Ilyich Tchaikovsky",
+   "year": 1878,
+   "genre": "March",
+   "license": "Public Domain",
+   "source": "Mutopia Project",
+   "sourceUrl": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1806",
+   "typesetter": "Anonymous",
+   "edition": "Schirmer, 1904",
+   "mutopiaId": 1806,
+   "melodyTracks": [
+    1
+   ],
+   "duration": 40.5,
+   "startOffset": 0,
+   "bpm": 140,
+   "melodyDensity": 3.11,
+   "difficulty": 3,
+   "popularity": null
+  },
+  {
+   "id": "sousa-king-cotton",
+   "file": "songs/sousa-king-cotton.mid",
+   "title": "King Cotton",
+   "composer": "John Philip Sousa",
+   "year": 1895,
+   "genre": "March",
+   "license": "Public Domain",
+   "source": "Mutopia Project",
+   "sourceUrl": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=634",
+   "typesetter": "Benjamin Bloomfield",
+   "edition": "The John Church Company",
+   "mutopiaId": 634,
+   "melodyTracks": [
+    1
+   ],
+   "duration": 147.4,
+   "startOffset": 0,
+   "bpm": 200,
+   "melodyDensity": 3.71,
+   "difficulty": 4,
+   "popularity": 2223
+  },
+  {
+   "id": "trad-sakura-miyotote",
+   "file": "songs/trad-sakura-miyotote.mid",
+   "title": "Sakura-Miyotote (koto)",
+   "composer": "Traditional (Japanese)",
+   "year": 1800,
+   "genre": "World",
+   "license": "Public Domain",
+   "source": "Mutopia Project",
+   "sourceUrl": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1971",
+   "typesetter": "patrick stanistreet",
+   "edition": "Nagai, Iwai and Obata, Kenhachiro, \"Seiyo gakufu Nihon zokkyokushu\", pub. Miki Shoten, Osaka, 1895. English title, \"A Collection of Japanese Popular Music.\"",
+   "mutopiaId": 1971,
+   "melodyTracks": [
+    1
+   ],
+   "duration": 59.8,
+   "startOffset": 0,
+   "bpm": 120,
+   "melodyDensity": 2.34,
+   "difficulty": 3,
+   "popularity": null
+  },
+  {
+   "id": "trad-kuro-kami",
+   "file": "songs/trad-kuro-kami.mid",
+   "title": "Kuro-Kami (koto)",
+   "composer": "Traditional (Japanese)",
+   "year": 1800,
+   "genre": "World",
+   "license": "Public Domain",
+   "source": "Mutopia Project",
+   "sourceUrl": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1972",
+   "typesetter": "patrick stanistreet",
+   "edition": "Nagai, Iwai and Obata, Kenhachiro, \"Seiyo gakufu Nihon zokkyokushu\", pub. Miki Shoten, Osaka, 1895. English title, \"A Collection of Japanese Popular Music.\"",
+   "mutopiaId": 1972,
+   "melodyTracks": [
+    1
+   ],
+   "duration": 145.6,
+   "startOffset": 0,
+   "bpm": 110,
+   "melodyDensity": 1.7,
+   "difficulty": 2,
+   "popularity": null
+  },
+  {
+   "id": "trad-o-edo-nihonbashi",
+   "file": "songs/trad-o-edo-nihonbashi.mid",
+   "title": "O-Edo-Nihonbashi (shamisen)",
+   "composer": "Traditional (Japanese)",
+   "year": 1800,
+   "genre": "World",
+   "license": "Public Domain",
+   "source": "Mutopia Project",
+   "sourceUrl": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1963",
+   "typesetter": "patrick stanistreet",
+   "edition": "Nagai, Iwai and Obata, Kenhachiro, \"Seiyo gakufu Nihon zokkyokushu\", pub. Miki Shoten, Osaka, 1895. English title, \"A Collection of Japanese Popular Music.\"",
+   "mutopiaId": 1963,
+   "melodyTracks": [
+    1
+   ],
+   "duration": 39.5,
+   "startOffset": 0,
+   "bpm": 60,
+   "melodyDensity": 1.77,
+   "difficulty": 2,
+   "popularity": null
+  },
+  {
+   "id": "trad-mo-li-hua",
+   "file": "songs/trad-mo-li-hua.mid",
+   "title": "Mo Li Hua (Jasmine Flower)",
+   "composer": "Traditional (Chinese)",
+   "year": 1750,
+   "genre": "World",
+   "license": "Public domain",
+   "source": "Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Msgmrk.mid",
+   "typesetter": "KATO,Toru",
+   "melodyTracks": [
+    0
+   ],
+   "duration": 57.6,
+   "startOffset": 0,
+   "bpm": 84,
+   "melodyDensity": 1.62,
+   "difficulty": 2,
+   "popularity": 27352
+  },
+  {
+   "id": "trad-swedish-folk-dance-1",
+   "file": "songs/trad-swedish-folk-dance-1.mid",
+   "title": "Swedish Folk Dance No. 1 (Traditioner af Swenska Folk-Dansar)",
+   "composer": "Traditional (Swedish)",
+   "year": 1814,
+   "genre": "Folk",
+   "license": "Creative Commons Attribution 2.5",
+   "source": "Mutopia Project",
+   "sourceUrl": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=815",
+   "typesetter": "Erik Sjölund",
+   "edition": "Traditioner af Swenska Folk-Dansar, 1st part, 1814",
+   "mutopiaId": 815,
+   "melodyTracks": [
+    1
+   ],
+   "duration": 43.2,
+   "startOffset": 0,
+   "bpm": 100,
+   "melodyDensity": 3.56,
+   "difficulty": 4,
+   "popularity": null
+  },
+  {
+   "id": "trad-john-barleycorn",
+   "file": "songs/trad-john-barleycorn.mid",
+   "title": "John Barleycorn",
+   "composer": "Traditional (English), arr. Gustav Holst",
+   "year": 1909,
+   "genre": "Folk",
+   "license": "Public Domain",
+   "source": "Mutopia Project",
+   "sourceUrl": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=814",
+   "typesetter": "Nigel Holmes",
+   "edition": "Folk-Songs from Hampshire",
+   "mutopiaId": 814,
+   "melodyTracks": [
+    1
+   ],
+   "duration": 41.1,
+   "startOffset": 4.42,
+   "bpm": 76,
+   "melodyDensity": 2.66,
+   "difficulty": 3,
+   "popularity": 56697
+  },
+  {
+   "id": "kumar-prelude",
+   "file": "songs/kumar-prelude.mid",
+   "title": "Prelude",
+   "composer": "R. Kumar",
+   "year": 2005,
+   "genre": "Piano",
+   "license": "Creative Commons Attribution-ShareAlike 3.0",
+   "source": "Mutopia Project",
+   "sourceUrl": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=657",
+   "typesetter": "Ramana Kumar",
+   "edition": "Original composition",
+   "mutopiaId": 657,
+   "melodyTracks": [
+    1
+   ],
+   "duration": 252.0,
+   "startOffset": 0,
+   "bpm": 60,
+   "melodyDensity": 0.79,
+   "difficulty": 1,
+   "popularity": null
+  },
+  {
+   "id": "magnenat-variations-dautomne",
+   "file": "songs/magnenat-variations-dautomne.mid",
+   "title": "Variations d'automne",
+   "composer": "S. Magnenat",
+   "year": 2007,
+   "genre": "Piano",
+   "license": "Creative Commons Attribution-ShareAlike 3.0",
+   "source": "Mutopia Project",
+   "sourceUrl": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=973",
+   "typesetter": "Stéphane Magnenat",
+   "edition": "Own work",
+   "mutopiaId": 973,
+   "melodyTracks": [
+    1
+   ],
+   "duration": 141.5,
+   "startOffset": 0,
+   "bpm": 64,
+   "melodyDensity": 1.82,
+   "difficulty": 2,
+   "popularity": null
+  },
+  {
+   "id": "haydn-emperors-hymn",
+   "file": "songs/haydn-emperors-hymn.mid",
+   "title": "Gott erhalte Franz den Kaiser (Emperor's Hymn)",
+   "composer": "Joseph Haydn",
+   "year": 1797,
+   "genre": "Anthem",
+   "license": "Public Domain",
+   "source": "Mutopia Project",
+   "sourceUrl": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=522",
+   "typesetter": "Peter Chubb",
+   "edition": "Book of Common Praise, 1908, number 280",
+   "mutopiaId": 522,
+   "melodyTracks": [
+    1
+   ],
+   "duration": 36.0,
+   "startOffset": 0,
+   "bpm": 160,
+   "melodyDensity": 1.53,
+   "difficulty": 2,
+   "popularity": 56106
+  },
+  {
+   "id": "lavallee-o-canada",
+   "file": "songs/lavallee-o-canada.mid",
+   "title": "O Canada",
+   "composer": "Calixa Lavallée",
+   "year": 1880,
+   "genre": "Anthem",
+   "license": "Public domain",
+   "source": "Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:O_Canada.mid",
+   "typesetter": "Wikimedia Commons contributor",
+   "melodyTracks": [
+    1
+   ],
+   "duration": 67.2,
+   "startOffset": 0,
+   "bpm": 100,
+   "melodyDensity": 1.29,
+   "difficulty": 2,
+   "popularity": 390219
+  },
+  {
+   "id": "ward-america-the-beautiful",
+   "file": "songs/ward-america-the-beautiful.mid",
+   "title": "America the Beautiful",
+   "composer": "Samuel A. Ward",
+   "year": 1882,
+   "genre": "Anthem",
+   "license": "Public domain",
+   "source": "Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:America_the_Beautiful.mid",
+   "typesetter": "juan",
+   "melodyTracks": [
+    2
+   ],
+   "duration": 41.0,
+   "startOffset": 0.34,
+   "bpm": 98,
+   "melodyDensity": 1.43,
+   "difficulty": 2,
+   "popularity": 259623
+  },
+  {
+   "id": "mccormick-advance-australia-fair",
+   "file": "songs/mccormick-advance-australia-fair.mid",
+   "title": "Advance Australia Fair",
+   "composer": "Peter Dodds McCormick",
+   "year": 1878,
+   "genre": "Anthem",
+   "license": "Public domain",
+   "source": "Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Advance_Australia_Fair.mid",
+   "typesetter": "Brian Yap",
+   "melodyTracks": [
+    1
+   ],
+   "duration": 41.5,
+   "startOffset": 0,
+   "bpm": 120,
+   "melodyDensity": 1.75,
+   "difficulty": 2,
+   "popularity": 137464
+  },
+  {
+   "id": "hayashi-kimigayo",
+   "file": "songs/hayashi-kimigayo.mid",
+   "title": "Kimigayo",
+   "composer": "Hiromori Hayashi",
+   "year": 1880,
+   "genre": "Anthem",
+   "license": "CC BY 4.0",
+   "source": "Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kimigayo_MIDI.mid",
+   "typesetter": "www.nationalanthems.info",
+   "melodyTracks": [
+    2
+   ],
+   "duration": 38.3,
+   "startOffset": 0,
+   "bpm": 69,
+   "melodyDensity": 1.07,
+   "difficulty": 1,
+   "popularity": 104027
+  },
+  {
+   "id": "papezik-12-tone-blues",
+   "file": "songs/papezik-12-tone-blues.mid",
+   "title": "12-Tone Blues",
+   "composer": "R. Papezik",
+   "year": 2006,
+   "genre": "Blues",
+   "license": "Creative Commons Attribution-ShareAlike 3.0",
+   "source": "Mutopia Project",
+   "sourceUrl": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=1018",
+   "typesetter": "Karel",
+   "edition": "Original Composition",
+   "mutopiaId": 1018,
+   "melodyTracks": [
+    1
+   ],
+   "duration": 42.2,
+   "startOffset": 0,
+   "bpm": 120,
+   "melodyDensity": 3.98,
+   "difficulty": 4,
+   "popularity": null
+  },
+  {
+   "id": "littlejazzman-ill-never-forget-you",
+   "file": "songs/littlejazzman-ill-never-forget-you.mid",
+   "title": "I'll Never Forget You",
+   "composer": "Littlejazzman",
+   "year": null,
+   "genre": "Jazz",
+   "license": "CC BY 3.0",
+   "source": "Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:I'll_never_forget_you.mid",
+   "typesetter": "LITTLEJAZZMAN",
+   "melodyTracks": [
+    0
+   ],
+   "duration": 136.5,
+   "startOffset": 0,
+   "bpm": 130,
+   "melodyDensity": 4.65,
+   "difficulty": 4,
+   "popularity": null
+  },
+  {
+   "id": "creamer-layton-after-youve-gone",
+   "file": "songs/creamer-layton-after-youve-gone.mid",
+   "title": "After You've Gone",
+   "composer": "Turner Layton / Henry Creamer",
+   "year": 1918,
+   "genre": "Jazz",
+   "license": "Public domain",
+   "source": "Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:After_You've_Gone_chorus_Nashville_Number_System_score.mid",
+   "typesetter": "Hyacinth",
+   "note": "verse and chorus files joined into one MIDI",
+   "melodyTracks": [
+    1
+   ],
+   "duration": 85.5,
+   "startOffset": 0,
+   "bpm": 100,
+   "melodyDensity": 1.75,
+   "difficulty": 2,
+   "popularity": 21920
+  },
+  {
+   "id": "lincke-berliner-luft",
+   "file": "songs/lincke-berliner-luft.mid",
+   "title": "Berliner Luft",
+   "composer": "Paul Lincke",
+   "year": 1904,
+   "genre": "March",
+   "license": "Public domain",
+   "source": "Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Paul_Lincke_-_Berliner_Luft.mid",
+   "typesetter": "Unknown authorUnknown author",
+   "melodyTracks": [
+    1
+   ],
+   "duration": 61.4,
+   "startOffset": 3.82,
+   "bpm": 110,
+   "melodyDensity": 2.53,
+   "difficulty": 3,
+   "popularity": 131
+  },
+  {
+   "id": "oliver-west-end-blues",
+   "file": "songs/oliver-west-end-blues.mid",
+   "title": "West End Blues",
+   "composer": "Joe 'King' Oliver / Clarence Williams",
+   "year": 1928,
+   "genre": "Blues",
+   "license": "Public Domain",
+   "source": "OpenEWLD (public-domain lead sheets)",
+   "sourceUrl": "https://github.com/00sapo/OpenEWLD/tree/master/dataset",
+   "typesetter": "Wikifonia transcription via OpenEWLD; swing backing band generated for this project (CC0)",
+   "edition": "lead sheet: melody and chord symbols; piano, bass and drums arranged by tools/leadsheet2midi.py",
+   "melodyTracks": [
+    1
+   ],
+   "duration": 136.1,
+   "startOffset": 0.45,
+   "bpm": 82,
+   "melodyDensity": 1.45,
+   "difficulty": 2,
+   "popularity": null
+  },
+  {
+   "id": "nork-tin-roof-blues",
+   "file": "songs/nork-tin-roof-blues.mid",
+   "title": "Tin Roof Blues",
+   "composer": "New Orleans Rhythm Kings",
+   "year": 1923,
+   "genre": "Blues",
+   "license": "Public Domain",
+   "source": "OpenEWLD (public-domain lead sheets)",
+   "sourceUrl": "https://github.com/00sapo/OpenEWLD/tree/master/dataset",
+   "typesetter": "Wikifonia transcription via OpenEWLD; swing backing band generated for this project (CC0)",
+   "edition": "lead sheet: melody and chord symbols; piano, bass and drums arranged by tools/leadsheet2midi.py",
+   "melodyTracks": [
+    1
+   ],
+   "duration": 90.6,
+   "startOffset": 0.34,
+   "bpm": 98,
+   "melodyDensity": 1.59,
+   "difficulty": 2,
+   "popularity": null
+  },
+  {
+   "id": "rainey-see-see-rider-blues",
+   "file": "songs/rainey-see-see-rider-blues.mid",
+   "title": "See See Rider Blues",
+   "composer": "Ma Rainey / Lena Arant",
+   "year": 1924,
+   "genre": "Blues",
+   "license": "Public Domain",
+   "source": "OpenEWLD (public-domain lead sheets)",
+   "sourceUrl": "https://github.com/00sapo/OpenEWLD/tree/master/dataset",
+   "typesetter": "Wikifonia transcription via OpenEWLD; swing backing band generated for this project (CC0)",
+   "edition": "lead sheet: melody and chord symbols; piano, bass and drums arranged by tools/leadsheet2midi.py",
+   "melodyTracks": [
+    1
+   ],
+   "duration": 69.3,
+   "startOffset": 0,
+   "bpm": 90,
+   "melodyDensity": 1.25,
+   "difficulty": 2,
+   "popularity": null
+  },
+  {
+   "id": "jones-trouble-in-mind-blues",
+   "file": "songs/jones-trouble-in-mind-blues.mid",
+   "title": "Trouble in Mind",
+   "composer": "Richard M. Jones",
+   "year": 1924,
+   "genre": "Blues",
+   "license": "Public Domain",
+   "source": "OpenEWLD (public-domain lead sheets)",
+   "sourceUrl": "https://github.com/00sapo/OpenEWLD/tree/master/dataset",
+   "typesetter": "Wikifonia transcription via OpenEWLD; swing backing band generated for this project (CC0)",
+   "edition": "lead sheet: melody and chord symbols; piano, bass and drums arranged by tools/leadsheet2midi.py",
+   "melodyTracks": [
+    1
+   ],
+   "duration": 48.5,
+   "startOffset": 0.64,
+   "bpm": 84,
+   "melodyDensity": 1.2,
+   "difficulty": 2,
+   "popularity": null
+  },
+  {
+   "id": "trad-careless-love",
+   "file": "songs/trad-careless-love.mid",
+   "title": "Careless Love",
+   "composer": "Traditional (American)",
+   "year": 1900,
+   "genre": "Blues",
+   "license": "Public Domain",
+   "source": "OpenEWLD (public-domain lead sheets)",
+   "sourceUrl": "https://github.com/00sapo/OpenEWLD/tree/master/dataset",
+   "typesetter": "Wikifonia transcription via OpenEWLD; swing backing band generated for this project (CC0)",
+   "edition": "lead sheet: melody and chord symbols; piano, bass and drums arranged by tools/leadsheet2midi.py",
+   "melodyTracks": [
+    1
+   ],
+   "duration": 80.0,
+   "startOffset": 0,
+   "bpm": 96,
+   "melodyDensity": 0.96,
+   "difficulty": 1,
+   "popularity": null
+  },
+  {
+   "id": "trad-frankie-and-johnny",
+   "file": "songs/trad-frankie-and-johnny.mid",
+   "title": "Frankie and Johnny",
+   "composer": "Traditional (American)",
+   "year": 1900,
+   "genre": "Blues",
+   "license": "Public Domain",
+   "source": "OpenEWLD (public-domain lead sheets)",
+   "sourceUrl": "https://github.com/00sapo/OpenEWLD/tree/master/dataset",
+   "typesetter": "Wikifonia transcription via OpenEWLD; swing backing band generated for this project (CC0)",
+   "edition": "lead sheet: melody and chord symbols; piano, bass and drums arranged by tools/leadsheet2midi.py",
+   "melodyTracks": [
+    1
+   ],
+   "duration": 51.4,
+   "startOffset": 0,
+   "bpm": 112,
+   "melodyDensity": 1.61,
+   "difficulty": 2,
+   "popularity": null
+  },
+  {
+   "id": "oga-loop-house-in-a-forest",
+   "file": "songs/oga-loop-house-in-a-forest.mid",
+   "title": "House in a Forest (Loop)",
+   "composer": "HorrorPen",
+   "year": null,
+   "genre": "Playful",
+   "license": "CC-BY 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+   "allLicenses": [
+    "CC-BY 3.0"
+   ],
+   "source": "OpenGameArt.org",
+   "sourceUrl": "https://opengameart.org/content/loop-house-in-a-forest",
+   "favorites": 79,
+   "tags": [
+    "playful",
+    "background",
+    "Instrumental"
+   ],
+   "melodyTracks": [
+    4
+   ],
+   "duration": 25.0,
+   "startOffset": 0,
+   "bpm": 143,
+   "melodyDensity": 2.21,
+   "difficulty": 3,
+   "popularity": 79000
+  },
+  {
+   "id": "oga-prepare-your-swords",
+   "file": "songs/oga-prepare-your-swords.mid",
+   "title": "Prepare Your Swords",
+   "composer": "bojidar-bg",
+   "year": null,
+   "genre": "Orchestral",
+   "license": "CC0",
+   "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "allLicenses": [
+    "CC0"
+   ],
+   "source": "OpenGameArt.org",
+   "sourceUrl": "https://opengameart.org/content/prepare-your-swords",
+   "favorites": 53,
+   "tags": [
+    "Fantasy",
+    "Ambient"
+   ],
+   "melodyTracks": [
+    0
+   ],
+   "duration": 86.0,
+   "startOffset": 0,
+   "bpm": 120,
+   "melodyDensity": 4.1,
+   "difficulty": 4,
+   "popularity": 53000
+  },
+  {
+   "id": "oga-long-away-home-8bit",
+   "file": "songs/oga-long-away-home-8bit.mid",
+   "title": "Long Away Home",
+   "composer": "nene",
+   "year": null,
+   "genre": "Chiptune",
+   "license": "CC0",
+   "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "allLicenses": [
+    "CC0"
+   ],
+   "source": "OpenGameArt.org",
+   "sourceUrl": "https://opengameart.org/content/long-away-home-8bit",
+   "favorites": 50,
+   "tags": [
+    "adventure",
+    "8-bit",
+    "retro"
+   ],
+   "melodyTracks": [
+    5,
+    6,
+    11
+   ],
+   "duration": 121.6,
+   "startOffset": 0,
+   "bpm": 150,
+   "melodyDensity": 2.29,
+   "difficulty": 3,
+   "popularity": 50000
+  },
+  {
+   "id": "oga-theme-song-8-bit",
+   "file": "songs/oga-theme-song-8-bit.mid",
+   "title": "Theme Song",
+   "composer": "nene",
+   "year": null,
+   "genre": "Chiptune",
+   "license": "CC0",
+   "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "allLicenses": [
+    "CC0"
+   ],
+   "source": "OpenGameArt.org",
+   "sourceUrl": "https://opengameart.org/content/theme-song-8-bit",
+   "favorites": 39,
+   "tags": [
+    "8-bit",
+    "retro",
+    "oldschool"
+   ],
+   "melodyTracks": [
+    3,
+    4,
+    13,
+    14
+   ],
+   "duration": 88.6,
+   "startOffset": 0,
+   "bpm": 130,
+   "melodyDensity": 2.02,
+   "difficulty": 2,
+   "popularity": 39000
+  },
+  {
+   "id": "oga-leap-8bit",
+   "file": "songs/oga-leap-8bit.mid",
+   "title": "Leap",
+   "composer": "nene",
+   "year": null,
+   "genre": "Chiptune",
+   "license": "CC0",
+   "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "allLicenses": [
+    "CC0"
+   ],
+   "source": "OpenGameArt.org",
+   "sourceUrl": "https://opengameart.org/content/leap-8bit",
+   "favorites": 37,
+   "tags": [
+    "8-bit",
+    "oldschool",
+    "adventure",
+    "RPG"
+   ],
+   "melodyTracks": [
+    3,
+    4,
+    1
+   ],
+   "duration": 161.0,
+   "startOffset": 0,
+   "bpm": 155,
+   "melodyDensity": 2.43,
+   "difficulty": 3,
+   "popularity": 37000
+  },
+  {
+   "id": "oga-boss-battle-2-8-bit",
+   "file": "songs/oga-boss-battle-2-8-bit.mid",
+   "title": "Boss Battle #2",
+   "composer": "nene",
+   "year": null,
+   "genre": "Chiptune",
+   "license": "CC0",
+   "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "allLicenses": [
+    "CC0"
+   ],
+   "source": "OpenGameArt.org",
+   "sourceUrl": "https://opengameart.org/content/boss-battle-2-8-bit",
+   "favorites": 36,
+   "tags": [
+    "Battle",
+    "boss",
+    "8-bit",
+    "wav",
+    "mid",
+    "midi",
+    "145bpm"
+   ],
+   "melodyTracks": [
+    10
+   ],
+   "duration": 59.6,
+   "startOffset": 0,
+   "bpm": 145,
+   "melodyDensity": 3.52,
+   "difficulty": 4,
+   "popularity": 36000
+  },
+  {
+   "id": "oga-night-of-the-streets-horrorsuspense",
+   "file": "songs/oga-night-of-the-streets-horrorsuspense.mid",
+   "title": "Night of the Streets",
+   "composer": "nene",
+   "year": null,
+   "genre": "Cinematic",
+   "license": "CC0",
+   "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "allLicenses": [
+    "CC0"
+   ],
+   "source": "OpenGameArt.org",
+   "sourceUrl": "https://opengameart.org/content/night-of-the-streets-horrorsuspense",
+   "favorites": 36,
+   "tags": [
+    "piano",
+    "choir",
+    "horror",
+    "suspense",
+    "brass",
+    "strings",
+    "timpani",
+    "midi"
+   ],
+   "melodyTracks": [
+    2
+   ],
+   "duration": 153.2,
+   "startOffset": 0,
+   "bpm": 132,
+   "melodyDensity": 1.38,
+   "difficulty": 2,
+   "popularity": 36000
+  },
+  {
+   "id": "oga-spirit-waltz",
+   "file": "songs/oga-spirit-waltz.mid",
+   "title": "Spirit Waltz",
+   "composer": "HorrorPen",
+   "year": null,
+   "genre": "Orchestral",
+   "license": "CC-BY 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+   "allLicenses": [
+    "CC-BY 3.0"
+   ],
+   "source": "OpenGameArt.org",
+   "sourceUrl": "https://opengameart.org/content/spirit-waltz",
+   "favorites": 25,
+   "tags": [
+    "waltz",
+    "orchestral",
+    "Instrumental"
+   ],
+   "melodyTracks": [
+    2
+   ],
+   "duration": 74.6,
+   "startOffset": 0,
+   "bpm": 140,
+   "melodyDensity": 2.19,
+   "difficulty": 2,
+   "popularity": 25000
+  },
+  {
+   "id": "oga-it-is",
+   "file": "songs/oga-it-is.mid",
+   "title": "It Is",
+   "composer": "HorrorPen",
+   "year": null,
+   "genre": "Electronic",
+   "license": "CC-BY 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+   "allLicenses": [
+    "CC-BY 3.0"
+   ],
+   "source": "OpenGameArt.org",
+   "sourceUrl": "https://opengameart.org/content/it-is",
+   "favorites": 19,
+   "tags": [
+    "electronic",
+    "beat"
+   ],
+   "melodyTracks": [
+    21,
+    16,
+    17
+   ],
+   "duration": 97.8,
+   "startOffset": 13.73,
+   "bpm": 130,
+   "melodyDensity": 2.34,
+   "difficulty": 3,
+   "popularity": 19000
+  },
+  {
+   "id": "oga-endless-pain-of-nightmares",
+   "file": "songs/oga-endless-pain-of-nightmares.mid",
+   "title": "Endless Pain of Nightmares",
+   "composer": "nene",
+   "year": null,
+   "genre": "Metal",
+   "license": "CC0",
+   "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "allLicenses": [
+    "CC0"
+   ],
+   "source": "OpenGameArt.org",
+   "sourceUrl": "https://opengameart.org/content/endless-pain-of-nightmares",
+   "favorites": 17,
+   "tags": [
+    "metal",
+    "8-bit",
+    "drums",
+    "guitars",
+    "endless",
+    "pain",
+    "nightmare",
+    "nightmares"
+   ],
+   "melodyTracks": [
+    9,
+    10,
+    8
+   ],
+   "duration": 259.3,
+   "startOffset": 64.71,
+   "bpm": 174,
+   "melodyDensity": 2.99,
+   "difficulty": 3,
+   "popularity": 17000
+  },
+  {
+   "id": "oga-pandemia",
+   "file": "songs/oga-pandemia.mid",
+   "title": "Pandemia",
+   "composer": "nene",
+   "year": null,
+   "genre": "Rock",
+   "license": "CC0",
+   "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "allLicenses": [
+    "CC0"
+   ],
+   "source": "OpenGameArt.org",
+   "sourceUrl": "https://opengameart.org/content/pandemia",
+   "favorites": 17,
+   "tags": [
+    "pandemia",
+    "orchestral",
+    "Symphonic",
+    "metal",
+    "Rock",
+    "pop",
+    "guitars",
+    "drums"
+   ],
+   "melodyTracks": [
+    8
+   ],
+   "duration": 275.0,
+   "startOffset": 19.37,
+   "bpm": 138,
+   "melodyDensity": 1.58,
+   "difficulty": 2,
+   "popularity": 17000
+  },
+  {
+   "id": "oga-orien2",
+   "file": "songs/oga-orien2.mid",
+   "title": "Orien",
+   "composer": "Tozan",
+   "year": null,
+   "genre": "World",
+   "license": "CC0",
+   "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "allLicenses": [
+    "CC0"
+   ],
+   "source": "OpenGameArt.org",
+   "sourceUrl": "https://opengameart.org/content/orien2",
+   "favorites": 14,
+   "tags": [
+    "oriental",
+    "Koto",
+    "pan flute"
+   ],
+   "melodyTracks": [
+    1,
+    2,
+    4
+   ],
+   "duration": 68.8,
+   "startOffset": 0,
+   "bpm": 120,
+   "melodyDensity": 2.28,
+   "difficulty": 3,
+   "popularity": 14000
+  },
+  {
+   "id": "oga-fire-level",
+   "file": "songs/oga-fire-level.mid",
+   "title": "Fire Level",
+   "composer": "Spring Spring",
+   "year": null,
+   "genre": "Chiptune",
+   "license": "CC0",
+   "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "allLicenses": [
+    "CC0"
+   ],
+   "source": "OpenGameArt.org",
+   "sourceUrl": "https://opengameart.org/content/fire-level",
+   "favorites": 13,
+   "tags": [
+    "fire",
+    "level",
+    "chiptune",
+    "fiery",
+    "hot",
+    "lava",
+    "intense",
+    "retro"
+   ],
+   "melodyTracks": [
+    3
+   ],
+   "duration": 206.8,
+   "startOffset": 0,
+   "bpm": 520,
+   "melodyDensity": 4.74,
+   "difficulty": 4,
+   "popularity": 13000
+  },
+  {
+   "id": "oga-maximum-overdrive",
+   "file": "songs/oga-maximum-overdrive.mid",
+   "title": "Maximum Overdrive",
+   "composer": "Bogart VGM",
+   "year": null,
+   "genre": "Synthwave",
+   "license": "CC-BY 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+   "allLicenses": [
+    "CC-BY 3.0"
+   ],
+   "source": "OpenGameArt.org",
+   "sourceUrl": "https://opengameart.org/content/maximum-overdrive",
+   "favorites": 13,
+   "tags": [
+    "synthwave",
+    "drums",
+    "synth",
+    "racing",
+    "melodic",
+    "chilled"
+   ],
+   "melodyTracks": [
+    2,
+    5
+   ],
+   "duration": 203.2,
+   "startOffset": 19.34,
+   "bpm": 95,
+   "melodyDensity": 4.22,
+   "difficulty": 4,
+   "popularity": 13000
+  },
+  {
+   "id": "oga-skeleton-chamber-piano",
+   "file": "songs/oga-skeleton-chamber-piano.mid",
+   "title": "Skeleton Chamber Piano",
+   "composer": "Bobjt",
+   "year": null,
+   "genre": "Piano",
+   "license": "CC0",
+   "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "allLicenses": [
+    "CC0"
+   ],
+   "source": "OpenGameArt.org",
+   "sourceUrl": "https://opengameart.org/content/skeleton-chamber-piano",
+   "favorites": 12,
+   "tags": [
+    "sinister",
+    "piano",
+    "sidescroller",
+    "topdown",
+    "Platformer",
+    "RPG",
+    "evil",
+    "theme"
+   ],
+   "melodyTracks": [
+    0
+   ],
+   "duration": 72.0,
+   "startOffset": 5.36,
+   "bpm": 140,
+   "melodyDensity": 5.33,
+   "difficulty": 5,
+   "popularity": 12000
+  },
+  {
+   "id": "oga-chase",
+   "file": "songs/oga-chase.mid",
+   "title": "Chase!",
+   "composer": "Wolfgang_",
+   "year": null,
+   "genre": "Electronic",
+   "license": "CC0",
+   "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "allLicenses": [
+    "CC0"
+   ],
+   "source": "OpenGameArt.org",
+   "sourceUrl": "https://opengameart.org/content/chase",
+   "favorites": 11,
+   "tags": [
+    "chase",
+    "electronic",
+    "synth",
+    "Action",
+    "Bass",
+    "running"
+   ],
+   "melodyTracks": [
+    5
+   ],
+   "duration": 76.8,
+   "startOffset": 4.9,
+   "bpm": 150,
+   "melodyDensity": 5.72,
+   "difficulty": 5,
+   "popularity": 11000
+  },
+  {
+   "id": "oga-elevate-instrument-tracks",
+   "file": "songs/oga-elevate-instrument-tracks.mid",
+   "title": "Elevate",
+   "composer": "Fupi",
+   "year": null,
+   "genre": "Electronic",
+   "license": "CC0",
+   "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "allLicenses": [
+    "CC0"
+   ],
+   "source": "OpenGameArt.org",
+   "sourceUrl": "https://opengameart.org/content/elevate-instrument-tracks",
+   "favorites": 10,
+   "tags": [
+    "energetic",
+    "happy",
+    "emotional",
+    "synth",
+    "Bass",
+    "drum",
+    "drums",
+    "electronic"
+   ],
+   "melodyTracks": [
+    2,
+    3
+   ],
+   "duration": 158.6,
+   "startOffset": 15.05,
+   "bpm": 174,
+   "melodyDensity": 1.43,
+   "difficulty": 2,
+   "popularity": 10000
+  },
+  {
+   "id": "oga-headscratcher",
+   "file": "songs/oga-headscratcher.mid",
+   "title": "Headscratcher",
+   "composer": "congusbongus",
+   "year": null,
+   "genre": "Jazz",
+   "license": "OGA-BY 4.0",
+   "licenseUrl": "https://static.opengameart.org/OGA-BY-4.0.txt",
+   "allLicenses": [
+    "OGA-BY 4.0"
+   ],
+   "source": "OpenGameArt.org",
+   "sourceUrl": "https://opengameart.org/content/headscratcher",
+   "favorites": 10,
+   "tags": [
+    "bossa nova",
+    "elevator",
+    "oboe",
+    "midi"
+   ],
+   "melodyTracks": [
+    2,
+    5,
+    7
+   ],
+   "duration": 210.1,
+   "startOffset": 5.91,
+   "bpm": 130,
+   "melodyDensity": 2.06,
+   "difficulty": 2,
+   "popularity": 10000
+  },
+  {
+   "id": "oga-stereotypical-rpg-title-music",
+   "file": "songs/oga-stereotypical-rpg-title-music.mid",
+   "title": "Stereotypical RPG Title Music",
+   "composer": "Jan125",
+   "year": null,
+   "genre": "Orchestral",
+   "license": "CC-BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "allLicenses": [
+    "CC-BY 4.0"
+   ],
+   "source": "OpenGameArt.org",
+   "sourceUrl": "https://opengameart.org/content/stereotypical-rpg-title-music",
+   "favorites": 5,
+   "tags": [
+    "orchestral",
+    "midi",
+    "RPG"
+   ],
+   "melodyTracks": [
+    1
+   ],
+   "duration": 174.6,
+   "startOffset": 0,
+   "bpm": 120,
+   "melodyDensity": 2.4,
+   "difficulty": 3,
+   "popularity": 5000
+  },
+  {
+   "id": "oga-nes-overworld-theme",
+   "file": "songs/oga-nes-overworld-theme.mid",
+   "title": "NES Overworld Theme",
+   "composer": "tcarisland",
+   "year": null,
+   "genre": "Chiptune",
+   "license": "CC-BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "allLicenses": [
+    "CC-BY 4.0"
+   ],
+   "source": "OpenGameArt.org",
+   "sourceUrl": "https://opengameart.org/content/nes-overworld-theme",
+   "favorites": 4,
+   "tags": [
+    "8-bit",
+    "overworld",
+    "nintendo",
+    "classic nintendo",
+    "level"
+   ],
+   "melodyTracks": [
+    3
+   ],
+   "duration": 70.0,
+   "startOffset": 0,
+   "bpm": 120,
+   "melodyDensity": 5.17,
+   "difficulty": 5,
+   "popularity": 4000
+  },
+  {
+   "id": "oga-backstab",
+   "file": "songs/oga-backstab.mid",
+   "title": "Backstab",
+   "composer": "Ideka",
+   "year": null,
+   "genre": "Rock",
+   "license": "CC-BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "allLicenses": [
+    "CC-BY-SA 3.0"
+   ],
+   "source": "OpenGameArt.org",
+   "sourceUrl": "https://opengameart.org/content/backstab",
+   "favorites": 4,
+   "tags": [
+    "ogg",
+    "Rock",
+    "Guitar",
+    "electric guitar",
+    "solo",
+    "midi"
+   ],
+   "melodyTracks": [
+    2
+   ],
+   "duration": 96.0,
+   "startOffset": 6.5,
+   "bpm": 120,
+   "melodyDensity": 4.0,
+   "difficulty": 4,
+   "popularity": 4000
+  },
+  {
+   "id": "oga-finalboss-battle-1",
+   "file": "songs/oga-finalboss-battle-1.mid",
+   "title": "Final Boss Battle #1",
+   "composer": "nene",
+   "year": null,
+   "genre": "Chiptune",
+   "license": "CC-BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "allLicenses": [
+    "CC-BY 4.0"
+   ],
+   "source": "OpenGameArt.org",
+   "sourceUrl": "https://opengameart.org/content/finalboss-battle-1",
+   "favorites": 18,
+   "tags": [
+    "final",
+    "boss",
+    "boss battle",
+    "retro",
+    "8-bit"
+   ],
+   "melodyTracks": [
+    1
+   ],
+   "duration": 98.5,
+   "startOffset": 0,
+   "bpm": 156,
+   "melodyDensity": 2.88,
+   "difficulty": 3,
+   "popularity": 18000
+  },
+  {
+   "id": "oga-boss-battle-6-8-bit",
+   "file": "songs/oga-boss-battle-6-8-bit.mid",
+   "title": "Boss Battle #6",
+   "composer": "nene",
+   "year": null,
+   "genre": "Chiptune",
+   "license": "CC0",
+   "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "allLicenses": [
+    "CC0"
+   ],
+   "source": "OpenGameArt.org",
+   "sourceUrl": "https://opengameart.org/content/boss-battle-6-8-bit",
+   "favorites": 15,
+   "tags": [
+    "boss battle",
+    "boss",
+    "Battle",
+    "8bit",
+    "retro",
+    "oldschool"
+   ],
+   "melodyTracks": [
+    1
+   ],
+   "duration": 100.2,
+   "startOffset": 0,
+   "bpm": 115,
+   "melodyDensity": 3.69,
+   "difficulty": 4,
+   "popularity": 15000
+  },
+  {
+   "id": "oga-airport-attack",
+   "file": "songs/oga-airport-attack.mid",
+   "title": "Airport Attack",
+   "composer": "northivanastan",
+   "year": null,
+   "genre": "Electronic",
+   "license": "CC0",
+   "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "allLicenses": [
+    "CC0"
+   ],
+   "source": "OpenGameArt.org",
+   "sourceUrl": "https://opengameart.org/content/airport-attack",
+   "favorites": 8,
+   "tags": [
+    "midi",
+    "retro",
+    "electronic",
+    "Rock",
+    "muzak",
+    "doom",
+    "Action",
+    "upbeat"
+   ],
+   "melodyTracks": [
+    4
+   ],
+   "duration": 90.4,
+   "startOffset": 0,
+   "bpm": 170,
+   "melodyDensity": 1.88,
+   "difficulty": 2,
+   "popularity": 8000
+  },
+  {
+   "id": "oga-the-journey-continues",
+   "file": "songs/oga-the-journey-continues.mid",
+   "title": "The Journey Continues",
+   "composer": "northivanastan",
+   "year": null,
+   "genre": "Electronic",
+   "license": "CC0",
+   "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "allLicenses": [
+    "CC0"
+   ],
+   "source": "OpenGameArt.org",
+   "sourceUrl": "https://opengameart.org/content/the-journey-continues",
+   "favorites": 8,
+   "tags": [
+    "midi",
+    "retro",
+    "electronic",
+    "doom",
+    "Action",
+    "fanfare",
+    "upbeat",
+    "dark"
+   ],
+   "melodyTracks": [
+    0
+   ],
+   "duration": 109.7,
+   "startOffset": 0,
+   "bpm": 140,
+   "melodyDensity": 1.78,
+   "difficulty": 2,
+   "popularity": 8000
+  },
+  {
+   "id": "oga-fun-is-infinite-at-agm",
+   "file": "songs/oga-fun-is-infinite-at-agm.mid",
+   "title": "Fun Is Infinite at AGM",
+   "composer": "northivanastan",
+   "year": null,
+   "genre": "Electronic",
+   "license": "CC0",
+   "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "allLicenses": [
+    "CC0"
+   ],
+   "source": "OpenGameArt.org",
+   "sourceUrl": "https://opengameart.org/content/fun-is-infinite-at-agm",
+   "favorites": 5,
+   "tags": [
+    "upbeat",
+    "retro",
+    "midi",
+    "Fantasy",
+    "synth",
+    "electronic"
+   ],
+   "melodyTracks": [
+    4
+   ],
+   "duration": 123.4,
+   "startOffset": 12.43,
+   "bpm": 140,
+   "melodyDensity": 3.0,
+   "difficulty": 3,
+   "popularity": 5000
+  },
+  {
+   "id": "oga-quantum-2",
+   "file": "songs/oga-quantum-2.mid",
+   "title": "Quantum 2",
+   "composer": "northivanastan",
+   "year": null,
+   "genre": "Electronic",
+   "license": "CC0",
+   "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "allLicenses": [
+    "CC0"
+   ],
+   "source": "OpenGameArt.org",
+   "sourceUrl": "https://opengameart.org/content/quantum-2",
+   "favorites": 2,
+   "tags": [
+    "midi",
+    "remix",
+    "edm",
+    "electronic",
+    "background",
+    "retro"
+   ],
+   "melodyTracks": [
+    1
+   ],
+   "duration": 144.0,
+   "startOffset": 25.93,
+   "bpm": 140,
+   "melodyDensity": 1.49,
+   "difficulty": 2,
+   "popularity": 2000
+  },
+  {
+   "id": "oga-stranger-synth-retro-ambient-soundtrack",
+   "file": "songs/oga-stranger-synth-retro-ambient-soundtrack.mid",
+   "title": "Stranger Synth",
+   "composer": "michaelb",
+   "year": null,
+   "genre": "Synthwave",
+   "license": "CC-BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "allLicenses": [
+    "CC-BY 4.0"
+   ],
+   "source": "OpenGameArt.org",
+   "sourceUrl": "https://opengameart.org/content/stranger-synth-retro-ambient-soundtrack",
+   "favorites": 6,
+   "tags": [
+    "synth",
+    "Ambient",
+    "retro",
+    "synthwave",
+    "electronic"
+   ],
+   "melodyTracks": [
+    5
+   ],
+   "duration": 459.1,
+   "startOffset": 30.17,
+   "bpm": 90,
+   "melodyDensity": 1.34,
+   "difficulty": 2,
+   "popularity": 6000
+  },
+  {
+   "id": "oga-neon-flames",
+   "file": "songs/oga-neon-flames.mid",
+   "title": "Neon Flames",
+   "composer": "northivanastan",
+   "year": null,
+   "genre": "Synthwave",
+   "license": "CC0",
+   "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "allLicenses": [
+    "CC0"
+   ],
+   "source": "OpenGameArt.org",
+   "sourceUrl": "https://opengameart.org/content/neon-flames",
+   "favorites": 2,
+   "tags": [
+    "midi",
+    "retro",
+    "doom",
+    "80s",
+    "Action",
+    "Rock",
+    "hard rock"
+   ],
+   "melodyTracks": [
+    3
+   ],
+   "duration": 120.0,
+   "startOffset": 0,
+   "bpm": 120,
+   "melodyDensity": 0.93,
+   "difficulty": 1,
+   "popularity": 2000
+  },
+  {
+   "id": "oga-elegy-for-the-summer-of-4096",
+   "file": "songs/oga-elegy-for-the-summer-of-4096.mid",
+   "title": "Elegy for the Summer of 4096",
+   "composer": "Aureolus_Omicron",
+   "year": null,
+   "genre": "Synthwave",
+   "license": "CC-BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "allLicenses": [
+    "CC-BY 4.0"
+   ],
+   "source": "OpenGameArt.org",
+   "sourceUrl": "https://opengameart.org/content/elegy-for-the-summer-of-4096",
+   "favorites": 1,
+   "tags": [
+    "melancholic",
+    "sad",
+    "slow",
+    "dreamy",
+    "futuristic",
+    "cyberpunk",
+    "electronic",
+    "synth"
+   ],
+   "melodyTracks": [
+    5
+   ],
+   "duration": 256.0,
+   "startOffset": 0,
+   "bpm": 120,
+   "melodyDensity": 3.97,
+   "difficulty": 4,
+   "popularity": 1000
+  },
+  {
+   "id": "oga-the-berggren-malde-complex",
+   "file": "songs/oga-the-berggren-malde-complex.mid",
+   "title": "The Berggren-Malde Complex",
+   "composer": "northivanastan",
+   "year": null,
+   "genre": "Synthwave",
+   "license": "CC0",
+   "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "allLicenses": [
+    "CC0"
+   ],
+   "source": "OpenGameArt.org",
+   "sourceUrl": "https://opengameart.org/content/the-berggren-malde-complex",
+   "favorites": 5,
+   "tags": [
+    "midi",
+    "doom",
+    "railroad",
+    "shooter",
+    "Action",
+    "intense"
+   ],
+   "melodyTracks": [
+    3
+   ],
+   "duration": 224.0,
+   "startOffset": 0,
+   "bpm": 90,
+   "melodyDensity": 0.63,
+   "difficulty": 1,
+   "popularity": 5000
+  },
+  {
+   "id": "oga-mechanical-golem",
+   "file": "songs/oga-mechanical-golem.mid",
+   "title": "Mechanical Golem",
+   "composer": "Umplix",
+   "year": null,
+   "genre": "Synthwave",
+   "license": "CC0",
+   "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "allLicenses": [
+    "CC0"
+   ],
+   "source": "OpenGameArt.org",
+   "sourceUrl": "https://opengameart.org/content/mechanical-golem",
+   "favorites": 1,
+   "tags": [
+    "robot",
+    "mechanical",
+    "ai",
+    "synthwave"
+   ],
+   "melodyTracks": [
+    2
+   ],
+   "duration": 80.0,
+   "startOffset": 2.5,
+   "bpm": 120,
+   "melodyDensity": 4.0,
+   "difficulty": 4,
+   "popularity": 1000
+  },
+  {
+   "id": "oga-double-impact-midi-pack-main-code",
+   "file": "songs/oga-double-impact-midi-pack-main-code.mid",
+   "title": "Main Code (Double Impact MIDI Pack)",
+   "composer": "Korp",
+   "year": null,
+   "genre": "Synthwave",
+   "license": "CC0",
+   "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "allLicenses": [
+    "CC0"
+   ],
+   "source": "OpenGameArt.org",
+   "sourceUrl": "https://opengameart.org/content/double-impact-midi-pack",
+   "favorites": 8,
+   "tags": [
+    "midi",
+    "doom",
+    "freedoom",
+    "Action",
+    "stealth",
+    "energetic"
+   ],
+   "melodyTracks": [
+    8
+   ],
+   "duration": 164.6,
+   "startOffset": 12.98,
+   "bpm": 105,
+   "melodyDensity": 1.79,
+   "difficulty": 2,
+   "popularity": 8000
+  },
+  {
+   "id": "oga-battle-midi",
+   "file": "songs/oga-battle-midi.mid",
+   "title": "Battle",
+   "composer": "djsaryon",
+   "year": null,
+   "genre": "Orchestral",
+   "license": "CC-BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "allLicenses": [
+    "CC-BY-SA 3.0"
+   ],
+   "source": "OpenGameArt.org",
+   "sourceUrl": "https://opengameart.org/content/battle-midi",
+   "favorites": 26,
+   "tags": [
+    "Battle",
+    "midi",
+    "RPG",
+    "Modern",
+    "Sci-Fi",
+    "Warfare",
+    "Instrumental"
+   ],
+   "melodyTracks": [
+    0
+   ],
+   "duration": 102.0,
+   "startOffset": 4.5,
+   "bpm": 160,
+   "melodyDensity": 2.83,
+   "difficulty": 3,
+   "popularity": 26000
+  },
+  {
+   "id": "oga-you-cant-beat-the-machine",
+   "file": "songs/oga-you-cant-beat-the-machine.mid",
+   "title": "You Can't Beat the Machine",
+   "composer": "Loyalty Freak Music",
+   "year": null,
+   "genre": "Orchestral",
+   "license": "CC0",
+   "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "allLicenses": [
+    "CC0"
+   ],
+   "source": "OpenGameArt.org",
+   "sourceUrl": "https://opengameart.org/content/you-cant-beat-the-machine",
+   "favorites": 9,
+   "tags": [
+    "mid",
+    "midi",
+    "Boss Fight",
+    "boss",
+    "ending",
+    "dramatic",
+    "climax",
+    "120bpm"
+   ],
+   "melodyTracks": [
+    4
+   ],
+   "duration": 208.0,
+   "startOffset": 46.5,
+   "bpm": 120,
+   "melodyDensity": 1.16,
+   "difficulty": 1,
+   "popularity": 9000
+  },
+  {
+   "id": "oga-savior-of-humanity",
+   "file": "songs/oga-savior-of-humanity.mid",
+   "title": "Savior of Humanity",
+   "composer": "northivanastan",
+   "year": null,
+   "genre": "Orchestral",
+   "license": "CC0",
+   "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "allLicenses": [
+    "CC0"
+   ],
+   "source": "OpenGameArt.org",
+   "sourceUrl": "https://opengameart.org/content/savior-of-humanity",
+   "favorites": 9,
+   "tags": [
+    "midi",
+    "doom",
+    "retro",
+    "Battle",
+    "boss",
+    "ending",
+    "final boss",
+    "epic"
+   ],
+   "melodyTracks": [
+    2
+   ],
+   "duration": 292.8,
+   "startOffset": 14.5,
+   "bpm": 120,
+   "melodyDensity": 1.88,
+   "difficulty": 2,
+   "popularity": 9000
+  },
+  {
+   "id": "oga-battle-01",
+   "file": "songs/oga-battle-01.mid",
+   "title": "Battle 01",
+   "composer": "Fantasy Musica",
+   "year": null,
+   "genre": "Orchestral",
+   "license": "CC-BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "allLicenses": [
+    "CC-BY-SA 4.0"
+   ],
+   "source": "OpenGameArt.org",
+   "sourceUrl": "https://opengameart.org/content/battle-01",
+   "favorites": 7,
+   "tags": [
+    "Battle",
+    "RPG",
+    "looping",
+    "midi",
+    "retro",
+    "fight",
+    "MMORPG"
+   ],
+   "melodyTracks": [
+    1
+   ],
+   "duration": 59.1,
+   "startOffset": 0,
+   "bpm": 130,
+   "melodyDensity": 2.4,
+   "difficulty": 3,
+   "popularity": 7000
+  },
+  {
+   "id": "oga-white-limestone",
+   "file": "songs/oga-white-limestone.mid",
+   "title": "White Limestone",
+   "composer": "Bobjt",
+   "year": null,
+   "genre": "Orchestral",
+   "license": "CC0",
+   "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "allLicenses": [
+    "CC0"
+   ],
+   "source": "OpenGameArt.org",
+   "sourceUrl": "https://opengameart.org/content/white-limestone",
+   "favorites": 5,
+   "tags": [
+    "Battle",
+    "RPG",
+    "epic",
+    "emphatic",
+    "staccato",
+    "violin",
+    "synth",
+    "level"
+   ],
+   "melodyTracks": [
+    3
+   ],
+   "duration": 184.7,
+   "startOffset": 11.13,
+   "bpm": 152,
+   "melodyDensity": 1.3,
+   "difficulty": 2,
+   "popularity": 5000
+  },
+  {
+   "id": "oga-modern-castle-atmosphere",
+   "file": "songs/oga-modern-castle-atmosphere.mid",
+   "title": "Modern Castle Atmosphere",
+   "composer": "Bogart VGM",
+   "year": null,
+   "genre": "Cinematic",
+   "license": "CC-BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "allLicenses": [
+    "CC-BY 4.0"
+   ],
+   "source": "OpenGameArt.org",
+   "sourceUrl": "https://opengameart.org/content/modern-castle-atmosphere",
+   "favorites": 9,
+   "tags": [
+    "atmospheric",
+    "exploration",
+    "concentration",
+    "organ",
+    "drums",
+    "Guitar",
+    "strings",
+    "chilled"
+   ],
+   "melodyTracks": [
+    5
+   ],
+   "duration": 148.4,
+   "startOffset": 42.41,
+   "bpm": 110,
+   "melodyDensity": 1.38,
+   "difficulty": 2,
+   "popularity": 9000
+  },
+  {
+   "id": "oga-cave-music",
+   "file": "songs/oga-cave-music.mid",
+   "title": "Cave Music",
+   "composer": "hornpipe2",
+   "year": null,
+   "genre": "Cinematic",
+   "license": "CC0",
+   "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "allLicenses": [
+    "CC0"
+   ],
+   "source": "OpenGameArt.org",
+   "sourceUrl": "https://opengameart.org/content/cave-music",
+   "favorites": 5,
+   "tags": [
+    "Ambient",
+    "cave",
+    "midi"
+   ],
+   "melodyTracks": [
+    1
+   ],
+   "duration": 64.0,
+   "startOffset": 0,
+   "bpm": 90,
+   "melodyDensity": 3.01,
+   "difficulty": 3,
+   "popularity": 5000
+  },
+  {
+   "id": "oga-death-waltz",
+   "file": "songs/oga-death-waltz.mid",
+   "title": "Death Waltz",
+   "composer": "northivanastan",
+   "year": null,
+   "genre": "Cinematic",
+   "license": "CC0",
+   "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "allLicenses": [
+    "CC0"
+   ],
+   "source": "OpenGameArt.org",
+   "sourceUrl": "https://opengameart.org/content/death-waltz",
+   "favorites": 4,
+   "tags": [
+    "midi",
+    "dark",
+    "waltz",
+    "Fantasy"
+   ],
+   "melodyTracks": [
+    0
+   ],
+   "duration": 115.2,
+   "startOffset": 20.1,
+   "bpm": 100,
+   "melodyDensity": 1.99,
+   "difficulty": 2,
+   "popularity": 4000
+  },
+  {
+   "id": "oga-forgotten-violins",
+   "file": "songs/oga-forgotten-violins.mid",
+   "title": "Forgotten Violins",
+   "composer": "Erie",
+   "year": null,
+   "genre": "Cinematic",
+   "license": "CC-BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "allLicenses": [
+    "CC-BY-SA 3.0"
+   ],
+   "source": "OpenGameArt.org",
+   "sourceUrl": "https://opengameart.org/content/forgotten-violins",
+   "favorites": 3,
+   "tags": [
+    "violin",
+    "eerie"
+   ],
+   "melodyTracks": [
+    0
+   ],
+   "duration": 99.8,
+   "startOffset": 0,
+   "bpm": 120,
+   "melodyDensity": 1.46,
+   "difficulty": 2,
+   "popularity": 3000
+  },
+  {
+   "id": "oga-cave-01",
+   "file": "songs/oga-cave-01.mid",
+   "title": "Cave 01",
+   "composer": "Fantasy Musica",
+   "year": null,
+   "genre": "Cinematic",
+   "license": "CC-BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "allLicenses": [
+    "CC-BY-SA 4.0"
+   ],
+   "source": "OpenGameArt.org",
+   "sourceUrl": "https://opengameart.org/content/cave-01",
+   "favorites": 5,
+   "tags": [
+    "cave",
+    "cavern",
+    "mine",
+    "den",
+    "dungeon",
+    "dark",
+    "evil",
+    "night"
+   ],
+   "melodyTracks": [
+    9
+   ],
+   "duration": 96.0,
+   "startOffset": 0,
+   "bpm": 160,
+   "melodyDensity": 1.65,
+   "difficulty": 2,
+   "popularity": 5000
+  },
+  {
+   "id": "oga-winter-courtyard",
+   "file": "songs/oga-winter-courtyard.mid",
+   "title": "Winter Courtyard",
+   "composer": "Bobjt",
+   "year": null,
+   "genre": "Cinematic",
+   "license": "CC0",
+   "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "allLicenses": [
+    "CC0"
+   ],
+   "source": "OpenGameArt.org",
+   "sourceUrl": "https://opengameart.org/content/winter-courtyard",
+   "favorites": 5,
+   "tags": [
+    "RPG",
+    "conversation",
+    "tense",
+    "troublesome",
+    "cinematic"
+   ],
+   "melodyTracks": [
+    0
+   ],
+   "duration": 32.1,
+   "startOffset": 0,
+   "bpm": 149,
+   "melodyDensity": 5.01,
+   "difficulty": 5,
+   "popularity": 5000
+  },
+  {
+   "id": "oga-boss-battle-10-retro",
+   "file": "songs/oga-boss-battle-10-retro.mid",
+   "title": "Boss Battle 10",
+   "composer": "nene",
+   "year": null,
+   "genre": "Rock",
+   "license": "CC0",
+   "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "allLicenses": [
+    "CC0"
+   ],
+   "source": "OpenGameArt.org",
+   "sourceUrl": "https://opengameart.org/content/boss-battle-10-retro",
+   "favorites": 15,
+   "tags": [
+    "boss",
+    "Battle",
+    "guitars",
+    "midi",
+    "mid",
+    "ogg",
+    "wav",
+    "drums"
+   ],
+   "melodyTracks": [
+    4
+   ],
+   "duration": 34.0,
+   "startOffset": 0,
+   "bpm": 113,
+   "melodyDensity": 4.27,
+   "difficulty": 4,
+   "popularity": 15000
+  },
+  {
+   "id": "oga-chestnut",
+   "file": "songs/oga-chestnut.mid",
+   "title": "Chestnut",
+   "composer": "Raymond1206",
+   "year": null,
+   "genre": "Rock",
+   "license": "CC-BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "allLicenses": [
+    "CC-BY-SA 4.0"
+   ],
+   "source": "OpenGameArt.org",
+   "sourceUrl": "https://opengameart.org/content/chestnut",
+   "favorites": 4,
+   "tags": [
+    "Indie",
+    "midi"
+   ],
+   "melodyTracks": [
+    12
+   ],
+   "duration": 109.1,
+   "startOffset": 53.32,
+   "bpm": 110,
+   "melodyDensity": 3.32,
+   "difficulty": 3,
+   "popularity": 4000
+  },
+  {
+   "id": "oga-hellin",
+   "file": "songs/oga-hellin.mid",
+   "title": "Hellin",
+   "composer": "Ideka",
+   "year": null,
+   "genre": "Rock",
+   "license": "CC-BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "allLicenses": [
+    "CC-BY-SA 3.0"
+   ],
+   "source": "OpenGameArt.org",
+   "sourceUrl": "https://opengameart.org/content/hellin",
+   "favorites": 3,
+   "tags": [
+    "ogg",
+    "Rock",
+    "Guitar",
+    "electric guitar",
+    "solo",
+    "midi"
+   ],
+   "melodyTracks": [
+    6
+   ],
+   "duration": 96.0,
+   "startOffset": 58.5,
+   "bpm": 80,
+   "melodyDensity": 5.04,
+   "difficulty": 5,
+   "popularity": 3000
+  },
+  {
+   "id": "oga-bouncestyle1",
+   "file": "songs/oga-bouncestyle1.mid",
+   "title": "Bouncestyle",
+   "composer": "Tozan",
+   "year": null,
+   "genre": "Rock",
+   "license": "CC0",
+   "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "allLicenses": [
+    "CC0"
+   ],
+   "source": "OpenGameArt.org",
+   "sourceUrl": "https://opengameart.org/content/bouncestyle1",
+   "favorites": 2,
+   "tags": [
+    "Groovy",
+    "Guitar"
+   ],
+   "melodyTracks": [
+    2
+   ],
+   "duration": 89.2,
+   "startOffset": 18.13,
+   "bpm": 80,
+   "melodyDensity": 1.04,
+   "difficulty": 1,
+   "popularity": 2000
+  },
+  {
+   "id": "oga-rock-theme-3",
+   "file": "songs/oga-rock-theme-3.mid",
+   "title": "Rock Theme 3",
+   "composer": "Umplix",
+   "year": null,
+   "genre": "Rock",
+   "license": "CC0",
+   "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "allLicenses": [
+    "CC0"
+   ],
+   "source": "OpenGameArt.org",
+   "sourceUrl": "https://opengameart.org/content/rock-theme-3",
+   "favorites": 0,
+   "tags": [
+    "Rock",
+    "theme",
+    "Bass"
+   ],
+   "melodyTracks": [
+    1
+   ],
+   "duration": 65.0,
+   "startOffset": 0,
+   "bpm": 120,
+   "melodyDensity": 3.66,
+   "difficulty": 4,
+   "popularity": 0
+  },
+  {
+   "id": "oga-to-the-final-step",
+   "file": "songs/oga-to-the-final-step.mid",
+   "title": "To the Final Step",
+   "composer": "Raymond1206",
+   "year": null,
+   "genre": "Metal",
+   "license": "CC-BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "allLicenses": [
+    "CC-BY-SA 4.0"
+   ],
+   "source": "OpenGameArt.org",
+   "sourceUrl": "https://opengameart.org/content/to-the-final-step",
+   "favorites": 6,
+   "tags": [
+    "Battle",
+    "Distorted Guitar"
+   ],
+   "melodyTracks": [
+    1
+   ],
+   "duration": 123.0,
+   "startOffset": 1.5,
+   "bpm": 160,
+   "melodyDensity": 2.44,
+   "difficulty": 3,
+   "popularity": 6000
+  },
+  {
+   "id": "oga-knockout-midi-song",
+   "file": "songs/oga-knockout-midi-song.mid",
+   "title": "Knockout",
+   "composer": "megupets",
+   "year": null,
+   "genre": "Metal",
+   "license": "CC0",
+   "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "allLicenses": [
+    "CC0"
+   ],
+   "source": "OpenGameArt.org",
+   "sourceUrl": "https://opengameart.org/content/knockout-midi-song",
+   "favorites": 3,
+   "tags": [
+    "midi",
+    "hardcore"
+   ],
+   "melodyTracks": [
+    1
+   ],
+   "duration": 78.0,
+   "startOffset": 0.1,
+   "bpm": 150,
+   "melodyDensity": 3.38,
+   "difficulty": 3,
+   "popularity": 3000
+  },
+  {
+   "id": "oga-history-midi-song",
+   "file": "songs/oga-history-midi-song.mid",
+   "title": "History",
+   "composer": "megupets",
+   "year": null,
+   "genre": "Metal",
+   "license": "CC0",
+   "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "allLicenses": [
+    "CC0"
+   ],
+   "source": "OpenGameArt.org",
+   "sourceUrl": "https://opengameart.org/content/history-midi-song",
+   "favorites": 1,
+   "tags": [
+    "midi",
+    "hardcore",
+    "Rock"
+   ],
+   "melodyTracks": [
+    5
+   ],
+   "duration": 252.9,
+   "startOffset": 0.35,
+   "bpm": 130,
+   "melodyDensity": 3.45,
+   "difficulty": 3,
+   "popularity": 1000
+  },
+  {
+   "id": "oga-rock-music-0",
+   "file": "songs/oga-rock-music-0.mid",
+   "title": "Rock Music",
+   "composer": "Umplix",
+   "year": null,
+   "genre": "Metal",
+   "license": "CC0",
+   "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "allLicenses": [
+    "CC0"
+   ],
+   "source": "OpenGameArt.org",
+   "sourceUrl": "https://opengameart.org/content/rock-music-0",
+   "favorites": 1,
+   "tags": [
+    "Rock",
+    "hardcore",
+    "drumset",
+    "electric",
+    "electric guitar"
+   ],
+   "melodyTracks": [
+    1
+   ],
+   "duration": 31.2,
+   "startOffset": 0,
+   "bpm": 120,
+   "melodyDensity": 2.27,
+   "difficulty": 3,
+   "popularity": 1000
+  },
+  {
+   "id": "oga-rock-theme-song",
+   "file": "songs/oga-rock-theme-song.mid",
+   "title": "Rock Theme Song",
+   "composer": "Umplix",
+   "year": null,
+   "genre": "Metal",
+   "license": "CC0",
+   "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "allLicenses": [
+    "CC0"
+   ],
+   "source": "OpenGameArt.org",
+   "sourceUrl": "https://opengameart.org/content/rock-theme-song",
+   "favorites": 1,
+   "tags": [
+    "Rock",
+    "hard",
+    "reveal",
+    "intro",
+    "epic",
+    "Guitar",
+    "drumset"
+   ],
+   "melodyTracks": [
+    1
+   ],
+   "duration": 24.7,
+   "startOffset": 0,
+   "bpm": 120,
+   "melodyDensity": 3.36,
+   "difficulty": 3,
+   "popularity": 1000
+  },
+  {
+   "id": "oga-double-impact-midi-pack-fight-harder",
+   "file": "songs/oga-double-impact-midi-pack-fight-harder.mid",
+   "title": "Fight Harder (Double Impact MIDI Pack)",
+   "composer": "R0rque",
+   "year": null,
+   "genre": "Metal",
+   "license": "CC0",
+   "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "allLicenses": [
+    "CC0"
+   ],
+   "source": "OpenGameArt.org",
+   "sourceUrl": "https://opengameart.org/content/double-impact-midi-pack",
+   "favorites": 8,
+   "tags": [
+    "midi",
+    "doom",
+    "freedoom",
+    "Action",
+    "stealth",
+    "energetic"
+   ],
+   "melodyTracks": [
+    4
+   ],
+   "duration": 168.8,
+   "startOffset": 0,
+   "bpm": 172,
+   "melodyDensity": 2.8,
+   "difficulty": 3,
+   "popularity": 8000
+  },
+  {
+   "id": "oga-looping-bossa-track",
+   "file": "songs/oga-looping-bossa-track.mid",
+   "title": "Looping Bossa",
+   "composer": "Hobgoblin",
+   "year": null,
+   "genre": "Jazz",
+   "license": "CC-BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "allLicenses": [
+    "CC-BY-SA 4.0"
+   ],
+   "source": "OpenGameArt.org",
+   "sourceUrl": "https://opengameart.org/content/looping-bossa-track",
+   "favorites": 3,
+   "tags": [
+    "looping",
+    "loop",
+    "Earthbound",
+    "midi",
+    "wav",
+    "bossa"
+   ],
+   "melodyTracks": [
+    1
+   ],
+   "duration": 64.0,
+   "startOffset": 14.0,
+   "bpm": 120,
+   "melodyDensity": 1.2,
+   "difficulty": 2,
+   "popularity": 3000
+  },
+  {
+   "id": "oga-japaori",
+   "file": "songs/oga-japaori.mid",
+   "title": "Japaori",
+   "composer": "Tozan",
+   "year": null,
+   "genre": "World",
+   "license": "CC0",
+   "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "allLicenses": [
+    "CC0"
+   ],
+   "source": "OpenGameArt.org",
+   "sourceUrl": "https://opengameart.org/content/japaori",
+   "favorites": 5,
+   "tags": [
+    "oriental"
+   ],
+   "melodyTracks": [
+    1
+   ],
+   "duration": 158.5,
+   "startOffset": 0,
+   "bpm": 120,
+   "melodyDensity": 2.37,
+   "difficulty": 3,
+   "popularity": 5000
+  },
+  {
+   "id": "oga-jaoan",
+   "file": "songs/oga-jaoan.mid",
+   "title": "Jaoan",
+   "composer": "Tozan",
+   "year": null,
+   "genre": "World",
+   "license": "CC0",
+   "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "allLicenses": [
+    "CC0"
+   ],
+   "source": "OpenGameArt.org",
+   "sourceUrl": "https://opengameart.org/content/jaoan",
+   "favorites": 3,
+   "tags": [
+    "Koto",
+    "asian",
+    "oriental"
+   ],
+   "melodyTracks": [
+    5
+   ],
+   "duration": 152.5,
+   "startOffset": 0,
+   "bpm": 80,
+   "melodyDensity": 0.72,
+   "difficulty": 1,
+   "popularity": 3000
+  },
+  {
+   "id": "oga-punch-your-way-through",
+   "file": "songs/oga-punch-your-way-through.mid",
+   "title": "Punch Your Way Through",
+   "composer": "northivanastan",
+   "year": null,
+   "genre": "Playful",
+   "license": "CC0",
+   "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "allLicenses": [
+    "CC0"
+   ],
+   "source": "OpenGameArt.org",
+   "sourceUrl": "https://opengameart.org/content/punch-your-way-through",
+   "favorites": 5,
+   "tags": [
+    "upbeat",
+    "retro",
+    "midi",
+    "fast-paced",
+    "Action"
+   ],
+   "melodyTracks": [
+    2
+   ],
+   "duration": 78.0,
+   "startOffset": 0,
+   "bpm": 160,
+   "melodyDensity": 4.33,
+   "difficulty": 4,
+   "popularity": 5000
+  },
+  {
+   "id": "oga-friends-2068",
+   "file": "songs/oga-friends-2068.mid",
+   "title": "Friends, 2068",
+   "composer": "Loyalty Freak Music",
+   "year": null,
+   "genre": "Playful",
+   "license": "CC0",
+   "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "allLicenses": [
+    "CC0"
+   ],
+   "source": "OpenGameArt.org",
+   "sourceUrl": "https://opengameart.org/content/friends-2068",
+   "favorites": 4,
+   "tags": [
+    "90bpm",
+    "mid",
+    "midi",
+    "Mp3",
+    "orchestral",
+    "friend",
+    "sad",
+    "happy"
+   ],
+   "melodyTracks": [
+    1
+   ],
+   "duration": 74.7,
+   "startOffset": 0,
+   "bpm": 90,
+   "melodyDensity": 1.26,
+   "difficulty": 2,
+   "popularity": 4000
+  },
+  {
+   "id": "oga-village-2018",
+   "file": "songs/oga-village-2018.mid",
+   "title": "Village, 2018",
+   "composer": "Loyalty Freak Music",
+   "year": null,
+   "genre": "Playful",
+   "license": "CC0",
+   "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "allLicenses": [
+    "CC0"
+   ],
+   "source": "OpenGameArt.org",
+   "sourceUrl": "https://opengameart.org/content/village-2018",
+   "favorites": 2,
+   "tags": [
+    "90bpm",
+    "piano",
+    "mid",
+    "midi",
+    "town",
+    "village"
+   ],
+   "melodyTracks": [
+    1
+   ],
+   "duration": 66.7,
+   "startOffset": 0,
+   "bpm": 90,
+   "melodyDensity": 1.44,
+   "difficulty": 2,
+   "popularity": 2000
+  },
+  {
+   "id": "oga-town-03",
+   "file": "songs/oga-town-03.mid",
+   "title": "Town 03",
+   "composer": "Fantasy Musica",
+   "year": null,
+   "genre": "Playful",
+   "license": "CC-BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "allLicenses": [
+    "CC-BY-SA 4.0"
+   ],
+   "source": "OpenGameArt.org",
+   "sourceUrl": "https://opengameart.org/content/town-03",
+   "favorites": 1,
+   "tags": [
+    "village",
+    "town",
+    "Settlement",
+    "city",
+    "peaceful",
+    "fields",
+    "farms",
+    "plains"
+   ],
+   "melodyTracks": [
+    2
+   ],
+   "duration": 100.4,
+   "startOffset": 0,
+   "bpm": 110,
+   "melodyDensity": 1.44,
+   "difficulty": 2,
+   "popularity": 1000
+  },
+  {
+   "id": "oga-gem-kings-gallery",
+   "file": "songs/oga-gem-kings-gallery.mid",
+   "title": "Gem Kings Gallery",
+   "composer": "Bobjt",
+   "year": null,
+   "genre": "Playful",
+   "license": "CC0",
+   "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "allLicenses": [
+    "CC0"
+   ],
+   "source": "OpenGameArt.org",
+   "sourceUrl": "https://opengameart.org/content/gem-kings-gallery",
+   "favorites": 6,
+   "tags": [
+    "Character",
+    "theme",
+    "adventure",
+    "overworld",
+    "cloister",
+    "level",
+    "medieval",
+    "Fantasy"
+   ],
+   "melodyTracks": [
+    6
+   ],
+   "duration": 71.5,
+   "startOffset": 0,
+   "bpm": 94,
+   "melodyDensity": 2.29,
+   "difficulty": 3,
+   "popularity": 6000
+  },
+  {
+   "id": "oga-rpg-overworld-melodies-of-the-future",
+   "file": "songs/oga-rpg-overworld-melodies-of-the-future.mid",
+   "title": "Melodies of the Future",
+   "composer": "jocolloman",
+   "year": null,
+   "genre": "Playful",
+   "license": "CC-BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "allLicenses": [
+    "CC-BY 4.0"
+   ],
+   "source": "OpenGameArt.org",
+   "sourceUrl": "https://opengameart.org/content/rpg-overworld-melodies-of-the-future",
+   "favorites": 2,
+   "tags": [
+    "RPG",
+    "jrpg",
+    "overworld",
+    "loop",
+    "walking",
+    "adventure",
+    "exploration"
+   ],
+   "melodyTracks": [
+    0
+   ],
+   "duration": 145.5,
+   "startOffset": 0,
+   "bpm": 132,
+   "melodyDensity": 1.86,
+   "difficulty": 2,
+   "popularity": 2000
+  },
+  {
+   "id": "oga-facing-it",
+   "file": "songs/oga-facing-it.mid",
+   "title": "Facing It",
+   "composer": "Loyalty Freak Music",
+   "year": null,
+   "genre": "Piano",
+   "license": "CC0",
+   "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "allLicenses": [
+    "CC0"
+   ],
+   "source": "OpenGameArt.org",
+   "sourceUrl": "https://opengameart.org/content/facing-it",
+   "favorites": 3,
+   "tags": [
+    "midi",
+    "Mp3",
+    "100bpm",
+    "calm",
+    "piano",
+    "percussions"
+   ],
+   "melodyTracks": [
+    1
+   ],
+   "duration": 115.2,
+   "startOffset": 0,
+   "bpm": 100,
+   "melodyDensity": 3.42,
+   "difficulty": 3,
+   "popularity": 3000
+  },
+  {
+   "id": "oga-remember-the-time-we-use-to-play",
+   "file": "songs/oga-remember-the-time-we-use-to-play.mid",
+   "title": "Remember the Time We Used to Play",
+   "composer": "Loyalty Freak Music",
+   "year": null,
+   "genre": "Piano",
+   "license": "CC0",
+   "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "allLicenses": [
+    "CC0"
+   ],
+   "source": "OpenGameArt.org",
+   "sourceUrl": "https://opengameart.org/content/remember-the-time-we-use-to-play",
+   "favorites": 4,
+   "tags": [
+    "120bpm",
+    "mid",
+    "midi",
+    "Mp3",
+    "piano",
+    "happy",
+    "childhood",
+    "child"
+   ],
+   "melodyTracks": [
+    1
+   ],
+   "duration": 96.0,
+   "startOffset": 0,
+   "bpm": 120,
+   "melodyDensity": 2.32,
+   "difficulty": 3,
+   "popularity": 4000
+  },
+  {
+   "id": "oga-the-road-we-use-to-travel-when-we-were-kids",
+   "file": "songs/oga-the-road-we-use-to-travel-when-we-were-kids.mid",
+   "title": "The Road We Used to Travel",
+   "composer": "Loyalty Freak Music",
+   "year": null,
+   "genre": "Piano",
+   "license": "CC0",
+   "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "allLicenses": [
+    "CC0"
+   ],
+   "source": "OpenGameArt.org",
+   "sourceUrl": "https://opengameart.org/content/the-road-we-use-to-travel-when-we-were-kids",
+   "favorites": 4,
+   "tags": [
+    "130bpm",
+    "midi",
+    "mid",
+    "Mp3",
+    "drum",
+    "piano",
+    "flute",
+    "cello"
+   ],
+   "melodyTracks": [
+    1
+   ],
+   "duration": 140.3,
+   "startOffset": 5.88,
+   "bpm": 130,
+   "melodyDensity": 1.36,
+   "difficulty": 2,
+   "popularity": 4000
+  },
+  {
+   "id": "oga-sad-song-i",
+   "file": "songs/oga-sad-song-i.mid",
+   "title": "Sad Song I",
+   "composer": "The Harvett Vault",
+   "year": null,
+   "genre": "Piano",
+   "license": "CC-BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "allLicenses": [
+    "CC-BY 4.0"
+   ],
+   "source": "OpenGameArt.org",
+   "sourceUrl": "https://opengameart.org/content/sad-song-i",
+   "favorites": 3,
+   "tags": [
+    "Classical",
+    "calm",
+    "cloud",
+    "cutscene",
+    "forest",
+    "midi",
+    "piano",
+    "sad"
+   ],
+   "melodyTracks": [
+    1
+   ],
+   "duration": 76.8,
+   "startOffset": 17.7,
+   "bpm": 100,
+   "melodyDensity": 1.34,
+   "difficulty": 2,
+   "popularity": 3000
+  },
+  {
+   "id": "oga-waltz-of-the-ghosts",
+   "file": "songs/oga-waltz-of-the-ghosts.mid",
+   "title": "Waltz of the Ghosts",
+   "composer": "Aureolus_Omicron",
+   "year": null,
+   "genre": "Waltz",
+   "license": "CC-BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "allLicenses": [
+    "CC-BY 4.0"
+   ],
+   "source": "OpenGameArt.org",
+   "sourceUrl": "https://opengameart.org/content/waltz-of-the-ghosts",
+   "favorites": 9,
+   "tags": [
+    "waltz",
+    "fast",
+    "spooky",
+    "creepy",
+    "Halloween",
+    "ghosts",
+    "midi"
+   ],
+   "melodyTracks": [
+    4
+   ],
+   "duration": 81.0,
+   "startOffset": 7.5,
+   "bpm": 160,
+   "melodyDensity": 2.42,
+   "difficulty": 3,
+   "popularity": 9000
+  }
+ ]
+}
